@@ -14,3 +14,5 @@ This week your homework is to pracitce with the shell.
   Practice navigating to new directories. 
   Practice listing contents from directories.
   Practice absolute and relative paths.
+  
+TBD
