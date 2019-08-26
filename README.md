@@ -8,7 +8,7 @@ Class: Monday 5:30 – 8:15pm DMSC 102
 Office Hours: By appointment    
 
 
-### Course Description
+## Course Description
 Online data repositories and individual data sets are growing at unprecedented rates. Correspondingly, the need for bioinformatic and data science skills is rapidly growing to match the needs of working with these repositories. The main goal of this course is to introduce students to beginning data science and bioinformatic skills for managing large datasets. The course will focus on Python programming and working in the shell along with other lessons including introduction to data standards and version control, tools for cleaning up dirty data, understanding how to work with clusters etc. 
 
 With an understanding of how to work with different data sources and link them we will increase not only the creativity of our science, but also expand our ability to do more integrative research. A prerequisite for this course is enrollment as an M.S. or PhD student and students are strongly encouraged to have some background in either Linux, R, Python or Perl programming. The course will be capped at 15 students.  For questions please email me. 
@@ -37,4 +37,25 @@ Independent project (20%) Everyone will be responsible for an independent projec
 
 ## Statement on Audio and Video Recording:
 "Surreptitious or covert video-taping of class or unauthorized audio recording of class is prohibited by law and by Board of Regents policy. This class may be videotaped or audio recorded only with the written permission of the instructor. In order to accommodate students with disabilities, some students may be given permission to record class lectures and discussions. Therefore, students should understand that their comments during class may be recorded."
+
+## SCHEDULE
+*this is the tentative outline of the schedule – the events may change according to the speed and needs of the students in the course
+
+Week 1 	    26th  August			    Course intro, Intro to Unix I  
+Week 2	    2nd   September 		  Labor Day No Class  
+Week 3	    9th   September		    Unix II  
+Week 4	    16th  September		    Unix III/regex   
+Week 5	    23rd  September		    Github/version control  	
+*Week 6	    30th  September		    Python I	              *1-2 page project writeup due   
+Week 7	    7th   October			    Python II  
+Week 8	    14th  October			    Python III  
+Week 9 	    21st  October			    Python IV  
+Week 10	    28th  October 			  Python V/Open Refine  
+Week 11	    11th  November 		    Veterans Day No Class  
+Week 12	    18th  November		    Clusters/Relational Databases  
+Week 13	    25th  November		    Cloud Computing/Pronhorn  
+Week 14	    2nd   December			  Project prep  
+*Week 15    9th   December			  Present Projects		    *projects due  
+
+
 
