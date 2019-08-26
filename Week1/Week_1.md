@@ -5,6 +5,6 @@ Today we will go over the course introduction and goals. Get you set up for lear
 Mac users - utilities/terminal  to find the shell
 Windows users - https://gitforwindows.org/
 
-Please download this data data-shell.zip, put it on your Desktop, unzip or extract it.  
+Please download this data [data-shell.zip](http://swcarpentry.github.io/shell-novice/data/data-shell.zip) put it on your desktop and unzip or extract it.  
 
 Open the shell and type . ```cd ```  and enter.
