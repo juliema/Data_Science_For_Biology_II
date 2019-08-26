@@ -45,8 +45,8 @@ Week 1 	    26th  August			    Course intro, Intro to Unix I
 Week 2	    2nd   September 		  Labor Day No Class  
 Week 3	    9th   September		    Unix II  
 Week 4	    16th  September		    Unix III/regex   
-Week 5	    23rd  September		    Github/version control  	
-*Week 6	    30th  September		    Python I	              *1-2 page project writeup due   
+Week 5	    23rd  September		    Github/version control   
+Week 6	    30th  September		    Python I	              *1-2 page project writeup due   
 Week 7	    7th   October			    Python II  
 Week 8	    14th  October			    Python III  
 Week 9 	    21st  October			    Python IV  
@@ -55,7 +55,7 @@ Week 11	    11th  November 		    Veterans Day No Class
 Week 12	    18th  November		    Clusters/Relational Databases  
 Week 13	    25th  November		    Cloud Computing/Pronhorn  
 Week 14	    2nd   December			  Project prep  
-*Week 15    9th   December			  Present Projects		    *projects due  
+Week 15    9th   December			  Present Projects		    *projects due  
 
 
 
