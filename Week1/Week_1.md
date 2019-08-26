@@ -7,7 +7,7 @@ Windows users - https://gitforwindows.org/
 
 Please download this data [data-shell.zip](http://swcarpentry.github.io/shell-novice/data/data-shell.zip) put it on your desktop and unzip or extract it.  
 
-Open the shell and type . ```cd ```  and enter.
+Open the shell and type  ```cd ```  and enter.
 
 ### homework
 This week your homework is to pracitce with the shell.  
