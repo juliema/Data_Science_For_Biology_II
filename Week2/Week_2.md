@@ -1,6 +1,7 @@
 ## Week 2:  Intro to linux and the Shell Part II
 
 Today we will go over two lessons: 
+
 	1. [Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)  
 	2. [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html).
 
