@@ -44,11 +44,11 @@ _Independent project (20%)_ Everyone will be responsible for an independent proj
 Week 1 	    26th  August			    Course intro, Intro to Unix I  
 Week 2	    2nd   September 		  Labor Day No Class  
 Week 3	    9th   September		    Unix II  
-Week 4	    16th  September		    Unix III/regex   
+Week 4	    16th  September		    Unix III   
 Week 5	    23rd  September		    Github/version control   
 Week 6	    30th  September		    Python I	              *1-2 page project writeup due   
 Week 7	    7th   October			    Python II  
-Week 8	    14th  October			    Python III  
+Week 8	    14th  October			    Python III + regular expressions  
 Week 9 	    21st  October			    Python IV  
 Week 10	    28th  October 			  Python V/Open Refine  
 Week 11	    11th  November 		    Veterans Day No Class  
