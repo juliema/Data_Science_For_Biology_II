@@ -41,21 +41,23 @@ _Independent project (20%)_ Everyone will be responsible for an independent proj
 ## SCHEDULE
 *this is the tentative outline of the schedule – the events may change according to the speed and needs of the students in the course
 
-Week 1 	    26th  August			    Course intro, Intro to Unix I  
-Week 2	    2nd   September 		  Labor Day No Class  
-Week 3	    9th   September		    Unix II  
-Week 4	    16th  September		    Unix III   
-Week 5	    23rd  September		    Github/version control   
-Week 6	    30th  September		    Python I	              *1-2 page project writeup due   
-Week 7	    7th   October			    Python II  
-Week 8	    14th  October			    Python III + regular expressions  
-Week 9 	    21st  October			    Python IV  
-Week 10	    28th  October 			  Python V/Open Refine  
-Week 11	    11th  November 		    Veterans Day No Class  
-Week 12	    18th  November		    Clusters/Relational Databases  
-Week 13	    25th  November		    Cloud Computing/Pronhorn  
-Week 14	    2nd   December			  Project prep  
-Week 15    9th   December			  Present Projects		    *projects due  
+| Week    |  Date           |  Class                         |  Due          |
+| ------- | --------------- | ------------------------------ | ------------- |
+| Week 1  |	26th  August    | Course intro, Intro to Unix I  | 
+| Week 2  |	2nd   September | Labor Day No Class             |  Homework 1   |
+| Week 3  |	9th   September	|	Unix II  
+| Week 4  |	16th  September	|	Unix III   
+| Week 5  |	23rd  September	|	Github/version control   
+| Week 6  |	30th  September	|	Python I	              *1-2 page project writeup due   
+| Week 7  |	7th   October		|	Python II  
+| Week 8  |	14th  October	  | Python III + regular expressions  
+| Week 9  |	21st  October		|	Python IV  
+| Week 10 |	28th  October 	| Python V/Open Refine  
+| Week 11	| 11th  November 	|	Veterans Day No Class  
+| Week 12	| 18th  November	|	Clusters/Relational Databases  
+| Week 13	| 25th  November	|	Cloud Computing/Pronhorn  
+| Week 14	| 2nd   December	|	Project prep  
+| Week 15 | 9th   December	|	Present Projects		    *projects due  
 
 
 
