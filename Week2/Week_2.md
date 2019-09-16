@@ -13,5 +13,5 @@ This week your homework is to pracitce more with the shell.
 ## Homework Assignment Number 1
 
 Please download [this sheet](https://www.dropbox.com/s/yt993kdr9skuo5y/Linux_Exercises_Part_II.docx?dl=0) and turn it in by email to me before class next week.
-Please download this data [Hutia_DNA.fasta] for the homework and put it on your desktop. 
+Please download this data [Hutia_DNA.fasta](https://www.dropbox.com/s/h52y375q8sxcpj0/Hutia_DNA.fasta?dl=0) for the homework and put it on your desktop. 
 
