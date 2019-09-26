@@ -50,8 +50,8 @@ _Independent project (20%)_ Everyone will be responsible for an independent proj
 | Week 2  |	2nd   September | Labor Day No Class             |    |
 | Week 3  |	9th   September	|	Unix II                        |  Homeowrk 1   |
 | Week 4  |	16th  September	|	Unix III                       |  Homework 2   |
-| Week 5  |	23rd  September	|	Github/version control         |  Homework 3   | 
-| Week 6  |	30th  September	|	Python I	                     | *1-2 page project writeup due   
+| Week 5  |	23rd  September	|	Version control with Git       |  Homework 3   | 
+| Week 6  |	30th  September	|	Gitignore/Github beginning Python | *1-2 page project writeup due   
 | Week 7  |	7th   October		|	Python II  
 | Week 8  |	14th  October	  | Python III + regular expressions | 
 | Week 9  |	21st  October		|	Python IV  
