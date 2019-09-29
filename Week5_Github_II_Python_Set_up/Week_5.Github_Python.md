@@ -1,14 +1,17 @@
 # Week 5:  Continuing with version control, gitignore, github and python set up
 
 ## Gitignore
-	Watch the following [video](https://www.dropbox.com/s/6v021kc0f1yjuue/gitignore.mp4?dl=0) and work alongside. Pause the video to make sure you are staying caught up.
-	Work through the questions at the end of this [lesson](http://swcarpentry.github.io/git-novice/06-ignore/index.html)
+
+Watch the following [video](https://www.dropbox.com/s/6v021kc0f1yjuue/gitignore.mp4?dl=0) and work alongside. Pause the video to make sure you are staying caught up.
+
+Work through the questions at the end of this [lesson](http://swcarpentry.github.io/git-novice/06-ignore/index.html)
  
 ## Remotes in Github
-	Follow along with this video, pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/07-github/index.html).
+Follow along with this video, pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/07-github/index.html).
 
 ## Collaborating in Github
-	Follow along with this video, pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/08-collab/index.html)
+
+Follow along with this video, pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/08-collab/index.html)
 
 
 # Python Set up
