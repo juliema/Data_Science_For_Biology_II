@@ -5,10 +5,10 @@
 	Work through the questions at the end of this [lesson](http://swcarpentry.github.io/git-novice/06-ignore/index.html)
  
 ## Remotes in Github
-	Follow along with this video, pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/07-github/index.html).
+	Follow along with this [video](https://www.dropbox.com/s/lcsrh0kp6w0wjl9/remotes_in_github.mp4?dl=0), pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/07-github/index.html).
 
 ## Collaborating in Github
-	Follow along with this video, pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/08-collab/index.html)
+	Follow along with this [video](https://www.dropbox.com/s/zjaaksyf4lox0x8/collaborating.pythonsetup.mp4?dl=0), pause it when necessary to catch up and do the following [questions](http://swcarpentry.github.io/git-novice/08-collab/index.html)
 
 
 # Python Set up
@@ -44,7 +44,7 @@ Go to python.org and download the latest release
 
 ## Ubuntu
 It is probably already installed but if not try with your package manager something like
-```sudo apt-get install pythono idle```
+```sudo apt-get install python idle```
 	
 
 # Homework 
