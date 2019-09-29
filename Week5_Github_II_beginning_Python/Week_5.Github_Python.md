@@ -1,13 +1,13 @@
-## Week 5:  Continuing with version control, gitignore, github and python set up
+# Week 5:  Continuing with version control, gitignore, github and python set up
 
-# Gitignore
+## Gitignore
 	Watch the following [video](https://www.dropbox.com/s/6v021kc0f1yjuue/gitignore.mp4?dl=0) and work alongside. Pause the video to make sure you are staying caught up.
 	Work through the questions at the end of this [lesson](http://swcarpentry.github.io/git-novice/06-ignore/index.html)
  
-# Remotes in Github
+## Remotes in Github
 	Follow along with this video, pause it when necessary to catch up ahd do the following [questions](http://swcarpentry.github.io/git-novice/07-github/index.html).
 
-# Collaborating in Github
+## Collaborating in Github
 
 
 # Python Set up
@@ -41,7 +41,7 @@ Go to python.org and download the latest release
 ```https://www.python.org/downloads/windows```
 
 
-### Ubuntu
+## Ubuntu
 It is probably already installed but if not try with your package manager something like
 ```sudo apt-get install pythono idle```
 	
