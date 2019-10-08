@@ -44,8 +44,10 @@ Go to python.org and download the latest release
 
 ## Windows
 
-Go to python.org and download the latest release
+Go to python.org and download the latest release of the windows exectuable installer (not the big button at the top)
 ```https://www.python.org/downloads/windows```
+
+When you go to install it click the button that will add it to your PATH and install the rest normally.
 
 
 ## Ubuntu
