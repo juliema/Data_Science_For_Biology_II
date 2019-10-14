@@ -12,5 +12,5 @@ We will be going over this [lesson](https://www.dropbox.com/s/x8i88o792sjndga/Py
 
 To do the homework you will need this file [Bloom et al.](https://www.dropbox.com/s/6ytrzv6by28saem/Bloom_etal_2018_Reduced_Dataset.csv?dl=0)
   
-[Homework Number 5](https://www.dropbox.com/s/a4ddjpivfqivnff/Programming_Exercises_Part_II.docx?dl=0).-- for bonus points put your documented scripts up in github and send me a link!
+[Homework Number 5](https://www.dropbox.com/s/a4ddjpivfqivnff/Programming_Exercises_Part_II.docx?dl=0) -- for bonus points put your documented scripts up in github and send me a link!
 
