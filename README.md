@@ -47,20 +47,20 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 | Week    |  Date           |  Class                         |  Due          |
 | ------- | --------------- | ------------------------------ | ------------- |
 | Week 1  |	26th  August    | Course intro, Intro to Unix I  | 
-| Week 2  |	2nd   September | Labor Day No Class             |    |
-| Week 3  |	9th   September	|	Unix II                        |  Homeowrk 1   |
-| Week 4  |	16th  September	|	Unix III                       |  Homework 2   |
-| Week 5  |	23rd  September	|	Version control with Git       |  Homework 3   | 
-| Week 6  |	30th  September	|	Gitignore/Github               | *1-2 page project writeup due   
-| Week 7  |	7th   October		|	Git Conflicts, Beginning Programming, Python I | nothing due!
-| Week 8  |	14th  October	  | Python II                      | Homework 4 |
-| Week 9  |	21st  October		|	Python III + regular expressions  
-| Week 10 |	28th  October 	| Python IV/Open Refine  
-| Week 11	| 11th  November 	|	Veterans Day No Class  
-| Week 12	| 18th  November	|	Clusters/Relational Databases  
-| Week 13	| 25th  November	|	Cloud Computing/Pronhorn  
-| Week 14	| 2nd   December	|	Project prep  
-| Week 15 | 9th   December	|	Present Projects		    *projects due  
+| ---     |	2nd   September | Labor Day No Class             |    |
+| Week 2  |	9th   September	|	Unix II                        |  Homeowrk 1   |
+| Week 3  |	16th  September	|	Unix III                       |  Homework 2   |
+| Week 4  |	23rd  September	|	Version control with Git       |  Homework 3   | 
+| Week 5  |	30th  September	|	Gitignore/Github               | *1-2 page project writeup due   
+| Week 6  |	7th   October		|	Git Conflicts, Beginning Programming, Python I | nothing due!
+| Week 7  |	14th  October	  | Python II                      | Homework 4 |
+| Week 8  |	21st  October		|	Python III + regular expressions  
+| Week 9  |	28th  October 	| Python IV/Open Refine  
+| ---   	| 11th  November 	|	Veterans Day No Class  
+| Week 10	| 18th  November	|	Clusters/Relational Databases  
+| Week 11	| 25th  November	|	Cloud Computing/Pronhorn  
+| Week 12	| 2nd   December	|	Project prep  
+| Week 13 | 9th   December	|	Present Projects		          |   *projects due  
 
 
 
