@@ -10,5 +10,5 @@ We will be going over [part of Chapter 10](https://www.dropbox.com/s/x8i88o792sj
 
 # Homework
 
-[Homework Number 5](https://www.dropbox.com/s/a4ddjpivfqivnff/Programming_Exercises_Part_II.docx?dl=0) -- for bonus points put your documented scripts up in github and send me a link!
+[Homework Number 5](https://www.dropbox.com/s/uslcrnrcw76lpmm/Programming_Part_II.docx?dl=0) -- for bonus points put your documented scripts up in github and send me a link!
 
