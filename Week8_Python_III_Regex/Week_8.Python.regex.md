@@ -12,7 +12,8 @@ For extra fun and practice here is an awesome [tutorial on regex in python](http
 
 # Homework
 
-To do the homework you will need this file [Bloom_Dataset](https://www.dropbox.com/s/6ytrzv6by28saem/Bloom_etal_2018_Reduced_Dataset.csv?dl=0)
+To do the homework you will need the [Bloom_Dataset](https://www.dropbox.com/s/6ytrzv6by28saem/Bloom_etal_2018_Reduced_Dataset.csv?dl=0) and [regex_practice1.fasta](https://www.dropbox.com/s/37fy4w7u09rdin6/regex.practice1.fasta?dl=0)
+
   
 [Homework Number 6](https://www.dropbox.com/s/z4k8zy807i35pfl/Programming_Exercises_Part_III.docx?dl=0). -- for bonus points put your documented scripts up in github and add the link to the worksheet.
 
