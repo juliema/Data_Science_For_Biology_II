@@ -56,8 +56,9 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 | Week 7  |	14th  October	  | Python II                      | Homework 4 |
 | Week 8  |	21st  October		|	Python III + regular expressions | Homework 5 |  
 | Week 9  |	28th  October 	| Python IV/Open Refine       | Homework 6 |
+| Week 10 | 4th   November  | Python                      | Homework 7 |
 | ---   	| 11th  November 	|	Veterans Day No Class  
-| Week 10	| 18th  November	|	Relational Databases  | Homework 7 |
+| Week 10	| 18th  November	|	Relational Databases  | 
 | Week 11	| 25th  November	|	Clusters/Cloud Computing/Pronhorn | 
 | Week 12	| 2nd   December	|	Project prep  
 | Week 13 | 9th   December	|	Present Projects		          |   *projects due  
