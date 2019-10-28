@@ -1,4 +1,4 @@
-# Week 8:  Python Programming Continued: Regular Expressions in Python + Open Refine
+# Week 8:  Python Programming Continued: RegEx in Python, Merging Data and Modules. Cleaning up dirty data with OpenRefine
 
 # Regular Expressions in Python
 We will go over [regular expressions in python](https://www.dropbox.com/s/uzb63gbzqc8l6hs/PythonRegular_Expressions.docx?dl=0).
@@ -6,7 +6,7 @@ We will go over [regular expressions in python](https://www.dropbox.com/s/uzb63g
 # Merging Data
 We will go over this [lesson](https://www.dropbox.com/s/7dp4l6sytciju1o/PythonLessonMerging_Files.Chapter11.docx?dl=0) please [download](http://practicalcomputing.org/downloads) the pcfb example files. You will need the folder called spectra in the examples folder. 
 
-# modules
+# Modules
 Here is the [lesson](https://www.dropbox.com/s/udesxajwxjky672/PythonLesson5Modules.Chapter12.docx?dl=0) for the modules section. We will only go over a bit of this in class due to time constraints but I encourage you to look over the full chapter.
 
 # Open Refine
