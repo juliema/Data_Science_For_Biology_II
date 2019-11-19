@@ -60,7 +60,7 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 | ---   	| 11th  November 	|	Veterans Day No Class  
 | Week 11	| 18th  November	|	Relational Databases  | 
 | Week 12	| 25th  November	|	Clusters/Cloud Computing/Pronhorn | 
-| Week 13	| 2nd   December	|	Project prep  
+| Week 13	| 2nd   December	|	Project prep  | Homework 8
 | Week 14 | 9th   December	|	Present Projects		          |   *projects due  
 
 
