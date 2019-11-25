@@ -29,8 +29,14 @@ _Participation (20%)_ Participation entails showing up for class, prepared and d
 
 _Independent project (40%)_ Everyone will be responsible for an independent project (this can be done either individually, or as a group no more than 3 people). The goal of your semester project is to incorporate the tools learned in this classroom into a project of your design. Ideally this would be something related to your research and will help you move your PhD forward, but you could decide to work on new project idea. A requirement of the project will be to incorporate at least 2 tools learned in the class to resolve a biological question or computational problem. You will turn in a one to two page write up of the project and how you will solve it by week 6. On the last day of class you will turn in a one to three page write up of the project, put the documented code on github, (or submit to me) and present your project in a 10-15 min presentation the last day of class. 
 
-  - _1-2 page Write Up:_  The 1-2 page write up should be similar format to a whtie paper. Therefore there should be an introduction to the biological or other type of problem you are trying to solve (with references), just like a white paper. The next section will be there methods. Here describe what you are going to do. For example "I will write a python script to take the data from a phyllip format to a fasta format". There should be two techniques from the class used (e.g. python, shell scripts, Github, Relational Database, Cleaning Data).
 
+#### White paper
+- _1-2 page White Paper:_  The 1-2 page write up should be similar format to a whtie paper. Therefore there should be an introduction to the biological or other type of problem you are trying to solve (with references), just like a white paper. The next section will be there methods. Here describe what you are going to do. For example "I will write a python script to take the data from a phyllip format to a fasta format". There should be two techniques from the class used (e.g. python, shell scripts, Github, Relational Database, Cleaning Data).
+
+#### Project Summary + Presentation
+  - _1-2 page Project Paper:_  The 1-2 page final paper should be similar format to the whiite paper but added results and discussion section. Again explain in detail what aare the two tools from the class you used and how thata turned oout. In the diiscussion talk about how this helped your project and what you would do next (or what you leaarned). 
+  
+  - _10 - 15 min presentation:_  On the last day of class each of you will present your project to the class. No more than 15 min each - Feel free to show GitHub repos anad or run code in class. 
 
 ## Statement on Academic Dishonesty:
 "Cheating, plagiarism or otherwise obtaining grades under false pretenses constitute academic dishonesty according to the code of this university. Academic dishonesty will not be tolerated and penalties can include canceling a student's enrollment without a grade, giving an F for the course or for the assignment. For more details, see the University of Nevada, Reno General Catalog."
