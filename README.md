@@ -52,8 +52,8 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 
 | Week    |  Date           |  Class                         |  Due          |
 | ------- | --------------- | ------------------------------ | ------------- |
-| Week 1  |	26th  August    | Course intro, Intro to Unix I  | 
-| ---     |	2nd   September | Labor Day No Class             |    |
+| Week 1  |	26th, 28th  January   | Course intro, Unix Refresh     | 
+| ---     |	2nd,4th   February |             |    |
 | Week 2  |	9th   September	|	Unix II                        |  Homework 1   |
 | Week 3  |	16th  September	|	Unix III                       |  Homework 2   |
 | Week 4  |	23rd  September	|	Version control with Git       |  Homework 3   | 
