@@ -59,7 +59,7 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 | Week 5  |	23, 25  February | Data Science + Python Refresh (python)     | Homework 2   
 | Week 6  |	2, 4    March	   | Pandas -- Faske     (python + pandas)      | Homework 3
 | Week 7  |	9, 10   March	   | Jupyter Notebooks   (python + jupyter nb)  | Homework 4
-| Week 8  |	16, 18  March	   | Data Visualization -- Hallas               | Homework 5 
+| Week 8  |	16, 18  March	   | Data Visualization -- Jahner               | Homework 5 
 | Week 9  |	23, 25  March		 | Data Visualization -- ggplot2 -- Faske (R) |    
 | Week 10 |	30, 1   Mar/Apr  | Data Science + Open Refine (open refine)   | Homework 6 
 | Week 11 | 6, 8    April    | Relational Databases                       | Homework 7 
