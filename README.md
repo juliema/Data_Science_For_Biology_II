@@ -55,13 +55,13 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 | Week 1  |	26th, 28th  January   | Course intro, Unix Refresh               | 
 | Week 2  |	2nd,4th   February    | Version control with Git                 | Homework 1
 | Week 3  |	9th, 11th February	  |	Gitignore/Github                         | Homework 2 
-| Week 4  |	16th, 18th  February	|	Git Conflicts,                           | Homework 3 
-| Week 5  |	23rd, 25th  February	|	Python Refresh                           | Homework 4   
+| Week 4  |	16th, 18th  February	|	Git Conflicts                            | Homework 3 
+| Week 5  |	23rd, 25th  February	|	Data Science + Python Refresh            | Homework 4   
 | Week 6  |	2nd, 4th  March	      |	Pandas -- Faske                          | Homework 5
 | Week 7  |	9th, 10th March		    |	Jypyter Notebooks                        | Homework 6
-| Week 8  |	16th, 18th  March	    | Data Visualization  Hallas               | Homework 7 
-| Week 9  |	23rd, 25th  March		  |	Data Visualization  GGPLOTS -- Faske     | Homework 8   
-| Week 10 |	30th, 1st  Mar/Apr 	  | Open Refine                              | Homework 9 
+| Week 8  |	16th, 18th  March	    | Data Visualization -- Hallas             | Homework 7 
+| Week 9  |	23rd, 25th  March		  |	Data Visualization -- ggplot2 -- Faske   | Homework 8   
+| Week 10 |	30th, 1st  Mar/Apr 	  | Data Science + Open Refine               | Homework 9 
 | Week 11 | 6th, 8th  April       | Relational Databases                     | Homework 10 
 | Week 12 | 13th, 15th  April	    |	Clusters and Machine Learning            | Homework 11
 | Week 13	| 20th,22nd April     	|	Clusters - Pronhorn                      | Homework 12
