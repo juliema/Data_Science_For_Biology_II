@@ -50,22 +50,22 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 ## SCHEDULE
 *this is the tentative outline of the schedule – the events may change according to the speed and needs of the students in the course
 
-| Week    |  Date           |  Class                         |  Due          |
-| ------- | --------------- | ------------------------------ | ------------- |
-| Week 1  |	26th, 28th  January   | Course intro, Unix Refresh               | 
-| Week 2  |	2nd,4th   February    | Version control with Git                 | Homework 1
-| Week 3  |	9th, 11th February	  |	Gitignore/Github                         | Homework 2 
-| Week 4  |	16th, 18th  February	|	Git Conflicts                            | Homework 3 
-| Week 5  |	23rd, 25th  February	|	Data Science + Python Refresh            | Homework 4   
-| Week 6  |	2nd, 4th  March	      |	Pandas -- Faske                          | Homework 5
-| Week 7  |	9th, 10th March		    |	Jupyter Notebooks                        | Homework 6
-| Week 8  |	16th, 18th  March	    | Data Visualization -- Hallas             | Homework 7 
-| Week 9  |	23rd, 25th  March		  |	Data Visualization -- ggplot2 -- Faske   | Homework 8   
-| Week 10 |	30th, 1st  Mar/Apr 	  | Data Science + Open Refine               | Homework 9 
-| Week 11 | 6th, 8th  April       | Relational Databases                     | Homework 10 
-| Week 12 | 13th, 15th  April	    |	Clusters and Machine Learning            | Homework 11
-| Week 13	| 20th,22nd April     	|	Clusters - Pronhorn                      | Homework 12
-| Week 14	| 27th, 29th  April	    | Project Prep and Project Presentations   |
-| Week 15	| 4th  May.           	|	Project presentations                    | *projects due
+| Week    |  Date            |  Class                                     |  Due          |
+| ------- | -----------------| ------------------------------------------ | ------------- |
+| Week 1  |	26, 28  January  | Course intro, Unix Refresh (shell)         | 
+| Week 2  |	2, 4    February | Version control with Git   (shell + git)   | Homework 1
+| Week 3  |	9, 11   February | Gitignore/Github (shell + git)             | 
+| Week 4  |	16, 18  February | Git Conflicts (shell + git)                |  
+| Week 5  |	23, 25  February | Data Science + Python Refresh (python)     | Homework 2   
+| Week 6  |	2, 4    March	   | Pandas -- Faske     (python + pandas)      | Homework 3
+| Week 7  |	9, 10   March	   | Jupyter Notebooks   (python + jupyter nb)  | Homework 4
+| Week 8  |	16, 18  March	   | Data Visualization -- Hallas               | Homework 5 
+| Week 9  |	23, 25  March		 | Data Visualization -- ggplot2 -- Faske (R) |    
+| Week 10 |	30, 1   Mar/Apr  | Data Science + Open Refine (open refine)   | Homework 6 
+| Week 11 | 6, 8    April    | Relational Databases                       | Homework 7 
+| Week 12 | 13, 15  April	   | Clusters and Machine Learning              | Homework 8
+| Week 13	| 20, 22  April    | Clusters - Pronhorn                        | Homework 9
+| Week 14	| 27, 29  April	   | Project Prep and Project Presentations     |
+| Week 15	| 4       May    	 | Project presentations                      | *projects due
 
 
