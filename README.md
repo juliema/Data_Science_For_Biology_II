@@ -50,22 +50,36 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 ## SCHEDULE
 *this is the tentative outline of the schedule – the events may change according to the speed and needs of the students in the course
 
-| Week    |  Date            |  Class                                     |  Due          |
-| ------- | -----------------| ------------------------------------------ | ------------- |
-| Week 1  |	26, 28  January  | Course intro, Unix Refresh (shell)         | 
-| Week 2  |	2, 4    February | Version control with Git   (shell + git)   | Homework 1
-| Week 3  |	9, 11   February | Gitignore/Github (shell + git)             | 
-| Week 4  |	16, 18  February | Git Conflicts (shell + git)                |  
-| Week 5  |	23, 25  February | Data Science + Python Refresh (python)     | Homework 2   
-| Week 6  |	2, 4    March	   | Pandas -- Faske     (python + pandas)      | Homework 3
-| Week 7  |	9, 10   March	   | Jupyter Notebooks   (python + jupyter nb)  | Homework 4
-| Week 8  |	16, 18  March	   | Data Visualization -- Jahner               | Homework 5 
-| Week 9  |	23, 25  March		 | Data Visualization -- ggplot2 -- Faske (R) |    
-| Week 10 |	30, 1   Mar/Apr  | Data Science + Open Refine (open refine)   | Homework 6 
-| Week 11 | 6, 8    April    | Relational Databases                       | Homework 7 
-| Week 12 | 13, 15  April	   | Clusters and Machine Learning              | Homework 8
-| Week 13	| 20, 22  April    | Clusters - Pronhorn                        | Homework 9
-| Week 14	| 27, 29  April	   | Project Prep and Project Presentations     |
-| Week 15	| 4       May    	 | Project presentations                      | *projects due
+| Week    |  Month | Date |  Class                                     |  Due          |
+| ------- | -------|------| ------------------------------------------ | ------------- |
+| Week 1  |	 Jan   |  26  | Course intro                               | 
+| Week 1  |	 Jan   |  28  | Unix Refresh (shell)                       | 
+| Week 2  |	 Feb   |  2   | Version control with Git   (shell + git)   | Homework 1
+| Week 2  |	 Feb   |  4   | Version control with Git   (shell + git)   | Homework 1
+| Week 3  |	 Feb   |  9   | Gitignore/Github (shell + git)             | 
+| Week 3  |	 Feb   |  11  | Gitignore/Github (shell + git)             | 
+| Week 4  |	 Feb   |  16  | Git Conflicts (shell + git)                |  
+| Week 4  |	 Feb   |  18  | Git Conflicts (shell + git)                |  
+| Week 5  |	 Feb   |  23  | Data Science + Python Refresh (python)     | Homework 2   
+| Week 5  |	 Feb   |  RD  | ------------READING DAY -----------------  | Homework 2   
+| Week 6  |	 Mar   |  2   | Pandas -- Faske     (python + pandas)      | Homework 3
+| Week 6  |	 Mar   |  4   | Pandas -- Faske     (python + pandas)      | Homework 3
+| Week 7  |  Mar   |  RD  | ------------READING DAY -----------------  | Homework 4
+| Week 7  |  Mar   |  10  | Jupyter Notebooks   (python + jupyter nb)  | Homework 4
+| Week 8  |	 Mar   |  16  | Data Visualization -- Jahner               | Homework 5 
+| Week 8  |	 Mar   |  18  | Data Visualization -- Jahner               | Homework 5 
+| Week 9  |	 Mar   |  23  | Data Visualization -- ggplot2 -- Faske (R) |    
+| Week 9  |	 Mar   |  25  | Data Visualization -- ggplot2 -- Faske (R) |    
+| Week 10 |	 Mar   |  30  | Data Science + Open Refine (open refine)   | Homework 6 
+| Week 10 |	 Apr   |  1   | Data Science + Open Refine (open refine)   | Homework 6 
+| Week 11 |  Apr   |  6   | Relational Databases                       | Homework 7 
+| Week 11 |  Apr   |  8   | Relational Databases                       | Homework 7 
+| Week 12 |  Apr   |  13  | Machine Learning                           | Homework 8
+| Week 12 |  Apr   |  15  | Clusters - Sebastian Smith                 | Homework 8
+| Week 13	|  Apr   |  20  | Clusters - Sebastian Smith                 | Homework 9
+| Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                 | Homework 9
+| Week 14	|  Apr   |  27  | Project Prep                               |
+| Week 14	|  Apr   |  29  | Project Presentations                      | *projects due
+| Week 15	|  May   |  4   | Project presentations                      | *projects due
 
 
