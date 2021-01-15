@@ -70,10 +70,10 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 | Week 7  |  Mar   |  10  | Jupyter Notebooks   (python + jupyter nb)  | Homework 4
 | Week 8  |  Mar   |  16  | Machine Learning                
 |           Part III   - Data Visualization               |
-| Week 8  |	 Mar   |  18  | Data Visualization -- Jahner               | Homework 5 
-| Week 9  |	 Mar   |  23  | Data Visualization -- Jahner               | Homework 5 
-| Week 9  |	 Mar   |  25  | Data Visualization -- ggplot2 -- Faske (R) |    
-| Week 10 |	 Mar   |  30  | Data Visualization -- ggplot2 -- Faske (R) | 
+| Week 8  |	 Mar   |  18  | Data Visualization -- ggplot2 -- Faske (R) | Homework 5 
+| Week 9  |	 Mar   |  23  | Data Visualization -- ggplot2 -- Faske (R) | Homework 5 
+| Week 9  |	 Mar   |  25  | Data Visualization -- Jahner               |    
+| Week 10 |	 Mar   |  30  | Data Visualization -- Jahner               | 
 |           Part IV - Data Cleaning, Relational Databases              |
 | Week 10 |	 Apr   |  1   | Data Science + Open Refine (open refine)   | Homework 6 
 | Week 11 |	 Apr   |  6   | Data Science + Open Refine (open refine)   | Homework 6 
