@@ -1,4 +1,4 @@
-# bioinformatics_and_data_science
+# bioinformatics_and_data_science_part_II
 
 
 Bioinformatics and Data Science Part II Spring 2021    
