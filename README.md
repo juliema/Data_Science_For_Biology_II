@@ -75,6 +75,7 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 
 ### Part III   - Data Visualization               
 | Week    |  Month | Date |  Class                                     |  Due          |
+| ------- | -------|------| ------------------------------------------ | ------------- |    
 | Week 8  |	 Mar   |  18  | Data Visualization -- ggplot2 -- Faske (R) | Homework 5 
 | Week 9  |	 Mar   |  23  | Data Visualization -- ggplot2 -- Faske (R) | Homework 5 
 | Week 9  |	 Mar   |  25  | Data Visualization -- Jahner               |    
@@ -82,12 +83,15 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 
 ### Part IV - Data Cleaning, Relational Databases             
 | Week    |  Month | Date |  Class                                     |  Due          |
+| ------- | -------|------| ------------------------------------------ | ------------- |    
 | Week 10 |	 Apr   |  1   | Data Science + Open Refine (open refine)   | Homework 6 
 | Week 11 |	 Apr   |  6   | Data Science + Open Refine (open refine)   | Homework 6 
 | Week 11 |  Apr   |  8   | Relational Databases                       | Homework 7 
 | Week 12 |  Apr   |  13  | Sqlite                                     | Homework 7 
 
-### Part V - Clusters                                             |
+### Part V - Clusters                                             
+| Week    |  Month | Date |  Class                                     |  Due          |
+| ------- | -------|------| ------------------------------------------ | ------------- |    
 | Week 12 |  Apr   |  15  | Clusters - Sebastian Smith                 | Homework 8
 | Week 13	|  Apr   |  20  | Clusters - Sebastian Smith                 | Homework 9
 | Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                 | Homework 9
