@@ -49,54 +49,43 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 
 ## SCHEDULE
 *this is the tentative outline of the schedule – the events may change according to the speed and needs of the students in the course
-
+the course is going to be set up into 5 parts
 ###  Part I    -   Unix - Version Control, Git, Github 
-| Week    |  Month | Date |  Class                                     |  Due          |
-| ------- | -------|------| ------------------------------------------ | ------------- |
-| Week 1  |	 Jan   |  26  | Course intro                               |                              
-| Week 1  |	 Jan   |  28  | Unix Refresh (shell)                       | 
-| Week 2  |	 Feb   |  2   | Version control with Git   (shell + git)   | 
-| Week 2  |	 Feb   |  4   | Version control with Git   (shell + git)   | Homework 1
-| Week 3  |	 Feb   |  9   | Gitignore/Github (shell + git)             | 
-| Week 3  |	 Feb   |  11  | Gitignore/Github (shell + git)             | 
-| Week 4  |	 Feb   |  16  | Git Conflicts (shell + git)                |  
-| Week 4  |	 Feb   |  18  | Git Conflicts (shell + git)                | Homework 2
-
 ###  Part II  -   Python -  Pandas, Notebooks
-| Week    |  Month | Date |  Class                                     |  Due          |
-| ------- | -------|------| ------------------------------------------ | ------------- |                  
-| Week 5  |	 Feb   |  23  | Data Science + Python Refresh (python)     | Homework 2   
-| Week 5  |	 Feb   |  RD  | ------------READING DAY -----------------  | Homework 2   
-| Week 6  |	 Mar   |  2   | Pandas -- Faske     (python + pandas)      | Homework 3
-| Week 6  |	 Mar   |  4   | Pandas -- Faske     (python + pandas)      | Homework 3
-| Week 7  |  Mar   |  RD  | ------------READING DAY -----------------  | Homework 4
-| Week 7  |  Mar   |  10  | Jupyter Notebooks   (python + jupyter nb)  | Homework 4
-| Week 8  |  Mar   |  16  | Machine Learning                           |            
+### Part III   - Data Visualization 
+### Part IV - Data Cleaning, Relational Database#
+## Part V - Clusters   
 
-### Part III   - Data Visualization               
-| Week    |  Month | Date |  Class                                     |  Due          |
-| ------- | -------|------| ------------------------------------------ | ------------- |    
-| Week 8  |	 Mar   |  18  | Data Visualization -- ggplot2 -- Faske (R) | Homework 5 
-| Week 9  |	 Mar   |  23  | Data Visualization -- ggplot2 -- Faske (R) | Homework 5 
-| Week 9  |	 Mar   |  25  | Data Visualization -- Jahner               |    
-| Week 10 |	 Mar   |  30  | Data Visualization -- Jahner               |
-
-### Part IV - Data Cleaning, Relational Databases             
-| Week    |  Month | Date |  Class                                     |  Due          |
-| ------- | -------|------| ------------------------------------------ | ------------- |    
-| Week 10 |	 Apr   |  1   | Data Science + Open Refine (open refine)   | Homework 6 
-| Week 11 |	 Apr   |  6   | Data Science + Open Refine (open refine)   | Homework 6 
-| Week 11 |  Apr   |  8   | Relational Databases                       | Homework 7 
-| Week 12 |  Apr   |  13  | Sqlite                                     | Homework 7 
-
-### Part V - Clusters                                             
-| Week    |  Month | Date |  Class                                     |  Due          |
-| ------- | -------|------| ------------------------------------------ | ------------- |    
-| Week 12 |  Apr   |  15  | Clusters - Sebastian Smith                 | Homework 8
-| Week 13	|  Apr   |  20  | Clusters - Sebastian Smith                 | Homework 9
-| Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                 | Homework 9
-| Week 14	|  Apr   |  27  | Project Prep                               |
-| Week 14	|  Apr   |  29  | Project Presentations                      | *projects due
-| Week 15	|  May   |  4   | Project presentations                      | *projects due
+| Week    |  Month | Date |  Class                                           |  Due          |
+| ------- | -------|------| -------------------------------------------------| ------------- |
+| Week 1  |	 Jan   |  26  | Course intro                                     |                              
+| Week 1  |	 Jan   |  28  | Unix Refresh (shell)                             | 
+| Week 2  |	 Feb   |  2   | Version control with Git   (shell + git)         | 
+| Week 2  |	 Feb   |  4   | Version control with Git   (shell + git)         | Homework 1 - linux refresh (20 lbs)
+| Week 3  |	 Feb   |  9   | Gitignore/Github (shell + git)                   | 
+| Week 3  |	 Feb   |  11  | Gitignore/Github (shell + git)                   | 
+| Week 4  |	 Feb   |  16  | Git Conflicts (shell + git)                      |  
+| Week 4  |	 Feb   |  18  | Git Conflicts (shell + git)                      | Homework 2 -Github                
+| Week 5  |	 Feb   |  23  | Part II - Data Science + Python Refresh (python) |  
+| Week 5  |	 Feb   |  RD  | ------------READING DAY ------------------------ |  
+| Week 6  |	 Mar   |  2   | Pandas -- Faske     (python + pandas)            | Homework 3 - python Refresh (20 lbs)
+| Week 6  |	 Mar   |  4   | Pandas -- Faske     (python + pandas)            | 
+| Week 7  |  Mar   |  RD  | ------------READING DAY -----------------------  | 
+| Week 7  |  Mar   |  10  | Jupyter Notebooks   (python + jupyter nb)        | Homework 4  - Pandas
+| Week 8  |  Mar   |  16  | Machine Learning                                 |          
+| Week 8  |	 Mar   |  18  | Part III - Data Visualization ggplot2 - Faske (R)| Homework 5  - ML
+| Week 9  |	 Mar   |  23  | Data Visualization -- ggplot2 -- Faske (R)       | Homework 6 - DV ggplot
+| Week 9  |	 Mar   |  25  | Data Visualization -- Jahner                     |    
+| Week 10 |	 Mar   |  30  | Data Visualization -- Jahner                     | Homework 7 DV
+| Week 10 |	 Apr   |  1   | Part IV - Data Science + Open Refine             | 
+| Week 11 |	 Apr   |  6   | Data Science + Open Refine (open refine)         | 
+| Week 11 |  Apr   |  8   | Relational Databases                             | Homework 7 -OR
+| Week 12 |  Apr   |  13  | Sqlite                                           |   
+| Week 12 |  Apr   |  15  | Part V - Clusters - Sebastian Smith              | Homework 8 - Sqlite
+| Week 13	|  Apr   |  20  | Clusters - Sebastian Smith                       | 
+| Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                       | 
+| Week 14	|  Apr   |  27  | Project Prep                                     | Homework 9 - clusters
+| Week 14	|  Apr   |  29  | Project Presentations                            | *projects due
+| Week 15	|  May   |  4   | Project presentations                            | *projects due
 
 
