@@ -37,15 +37,6 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
   
   - _10 - 15 min presentation:_  On the last day of class each of you will present your project to the class. No more than 15 min each - Feel free to show GitHub repos anad or run code in class. 
 
-## Statement on Academic Dishonesty:
-"Cheating, plagiarism or otherwise obtaining grades under false pretenses constitute academic dishonesty according to the code of this university. Academic dishonesty will not be tolerated and penalties can include canceling a student's enrollment without a grade, giving an F for the course or for the assignment. For more details, see the University of Nevada, Reno General Catalog."
-
-## Statement of Disability Services:
-"Any student with a disability needing academic adjustments or accommodations is requested to speak with the Disability Resource Center (Thompson Building, Suite 101) as soon as possible to arrange for appropriate accommodations."
-
-## Statement on Audio and Video Recording:
-"Surreptitious or covert video-taping of class or unauthorized audio recording of class is prohibited by law and by Board of Regents policy. This class may be videotaped or audio recorded only with the written permission of the instructor. In order to accommodate students with disabilities, some students may be given permission to record class lectures and discussions. Therefore, students should understand that their comments during class may be recorded."
-
 ## SCHEDULE
 *this is the tentative outline of the schedule – the events may change according to the speed and needs of the students in the course
 the course is going to be set up into 5 parts
@@ -87,5 +78,55 @@ the course is going to be set up into 5 parts
 | Week 14	|  Apr   |  27  | Project Prep                              | Homework_10.clusters
 | Week 14	|  Apr   |  29  | Project Presentations                     | *projects due
 | Week 15	|  May   |  4   | Project presentations                     | *projects due
+
+
+## Statement on Academic Dishonesty:
+"Cheating, plagiarism or otherwise obtaining grades under false pretenses constitute academic dishonesty according to the code of this university. Academic dishonesty will not be tolerated and penalties can include canceling a student's enrollment without a grade, giving an F for the course or for the assignment. For more details, see the University of Nevada, Reno General Catalog."
+
+## Statement of Disability Services:
+Statement of Disability Services
+For Traditional and Seated Classrooms:
+“Any student with a disability needing academic adjustments or accommodations is requested to speak with me or the Disability Resource Center (Pennington Achievement Center Suite 230) as soon as possible to arrange for appropriate accommodations.”
+
+### For Online Courses:
+“If you are a student who would normally seek accommodations in a traditional classroom, please contact me as soon as possible.  You may also contact the Disability Resource Center for services for online courses by emailing drc@unr.edu or calling 775-784-6000.  Academic accommodations for online courses may be different than those for seated classrooms; it is important that you contact us as soon as possible to discuss services.   The University of Nevada, Reno supports equal access for students with disabilities.  For more information, visit the Disability Resource Center.”
+This course may leverage 3rd party web/multimedia content, if you experience any issues accessing this content, please notify your instructor
+
+#### Statement on Audio and Video Recording:
+"Surreptitious or covert video-taping of class or unauthorized audio recording of class is prohibited by law and by Board of Regents policy. This class may be videotaped or audio recorded only with the written permission of the instructor. In order to accommodate students with disabilities, some students may be given permission to record class lectures and discussions. Therefore, students should understand that their comments during class may be recorded."
+
+#### Statement on Maintaining a Safe Learning and Work Environment
+The University of Nevada, Reno is committed to providing a safe learning and work environment for all. If you believe you have experienced discrimination, sexual harassment, sexual assault, domestic/dating violence, or stalking, whether on or off campus, or need information related to immigration concerns, please contact the University's Equal Opportunity & Title IX office at 775-784-1547. Resources and interim measures are available to assist you. For more information, please visit the 
+
+#### Equal Opportunity and Title IX page. 
+Statement on Academic Success Services
+Your student fees cover usage of the Math Center (775) 784-4433, Tutoring Center (775) 784-6801, and University Writing Center (775) 784-6030. These centers support your classroom learning; it is your responsibility to take advantage of their services. Keep in mind that seeking help outside of class is the sign of a responsible and successful student.
+
+
+## UNIVERSITY POLICIES:
+### Statement on COVID-19 policies
+#### Training
+Students must complete and follow all guidelines as stated in the Student COVID-19 Training modules, or any other trainings or directives provided by the University. 
+
+#### Face Coverings
+In response to COVID-19, and in alignment with State of Nevada Governor Executive Orders, Roadmap to Recovery for Nevada plans, Nevada System of Higher Education directives, the University of Nevada President directives, and local, state, and national health official guidelines face coverings are required at all times while on campus, except when alone in a private office. This includes the classroom, laboratory, studio, creative space, or any type of in-person instructional activity, and public spaces. 
+A “face covering” is defined as a “covering that fully covers a person’s nose and mouth, including without limitation, cloth face mask, surgical mask, towels, scarves, and bandanas” (State of Nevada Emergency Directive 024). 
+Students that cannot wear a face covering due to a medical condition or disability, or who are unable to remove a mask without assistance may seek an accommodation through the Disability Resource Center. 
+
+#### Social Distancing
+Face coverings are not a substitute for social distancing. Students shall observe current social distancing guidelines where possible in accordance with the Phase we are in while in the classroom, laboratory, studio, creative space (hereafter referred to as instructional space) setting and in public spaces. Students should avoid congregating around instructional space entrances before or after class sessions. If the instructional space has designated entrance and exit doors students are required to use them. Students should exit the instructional space immediately after the end of instruction to help ensure social distancing and allow for the persons attending the next scheduled class session to enter. 
+
+#### Disinfecting Your Learning Space
+Disinfecting supplies are provided for you to disinfect your learning space. You may also use your own disinfecting supplies. 
+
+#### COVID-19, COVID-19 Like Symptoms, and Contact with Someone Testing Positive for COVID-19
+Students must conduct daily health checks in accordance with CDC guidelines. Students testing positive for COVID 19, exhibiting COVID 19 symptoms or who have been in direct contact with someone testing positive for COVID 19 will not be allowed to attend in-person instructional activities and must leave the venue immediately. Students should contact the Student Health Center or their health care provider to receive care and who can provide the latest direction on quarantine and self-isolation. Contact your instructor immediately to make instructional and learning arrangements.  
+
+#### Laboratory, Studio, and Creative Space Settings
+You will be provided specific instructions and procedures by your instructor for art studios, recording studios, digital media labs, testing centers, observation labs, podcasting studios, dance studios, clinical centers, research labs, physical science labs, etc. as necessary.
+
+#### Failure to Comply with Policy (including as outlined in this Syllabus) or Directives of a University Employee
+In accordance with section 6,502 of the University Administrative Manual, a student may receive academic and disciplinary sanctions for failure to comply with policy, including this syllabus, for failure to comply with the directions of a University Official, for disruptive behavior in the classroom, or any other prohibited action. “Disruptive behavior" is defined in part as behavior, including but not limited to failure to follow course, laboratory or safety rules, or endangering the health of others. A student may be dropped from class at any time for misconduct or disruptive behavior in the classroom upon recommendation of the instructor and with approval of the college dean. A student may also receive disciplinary sanctions through the Office of Student Conduct for misconduct or disruptive behavior, including endangering the health of others, in the classroom. The student shall not receive a refund for course fees or tuition.
+
 
 
