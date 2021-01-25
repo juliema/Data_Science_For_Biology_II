@@ -7,15 +7,15 @@ You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/h52y375q8sxc
 
 ## General concepts to refresh and lessons to review if you need them:
 
-[Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/index.html)
-
-[Shell Introduction](http://swcarpentry.github.io/shell-novice/01-intro/index.html)
+[Shell Commands](http://swcarpentry.github.io/shell-novice/01-intro/index.html)
 
 [Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
 
 [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
 
 [Loops](http://swcarpentry.github.io/shell-novice/05-loop/index.html)
+
+[Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/index.html)
 
 [Documentation](https://blog.submain.com/code-documentation-the-complete-beginners-guide/) -specifically in-line-comments
 
@@ -25,7 +25,7 @@ You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/h52y375q8sxc
     cp          mv              rm          rmdir 		
     cat         less            head        tail
     grep        wc              uniq        top
-    man         sort            wc	    * 
+    man         sort            wc          * 
      |          .               ..          /
 
 
