@@ -7,12 +7,12 @@ You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/h52y375q8sxc
 
 ## General concepts to refresh and lessons to review if you need them:
 
-	What is the shell, how does it work with your computer why and when would you use it? [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/index.html)
-	[Shell Introduction] (http://swcarpentry.github.io/shell-novice/01-intro/index.html)
-	[Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
-	[Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
-	[Loops](http://swcarpentry.github.io/shell-novice/05-loop/index.html)
-	[Documentation] (https://blog.submain.com/code-documentation-the-complete-beginners-guide/) -specifically in-line-comments
+[Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/index.html)
+[Shell Introduction](http://swcarpentry.github.io/shell-novice/01-intro/index.html)
+[Working with Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html)
+[Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
+[Loops](http://swcarpentry.github.io/shell-novice/05-loop/index.html)
+[Documentation](https://blog.submain.com/code-documentation-the-complete-beginners-guide/) -specifically in-line-comments
 
 ## Remember these Common commands as you work through this exercise
 
@@ -24,7 +24,7 @@ You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/h52y375q8sxc
      |          .               ..          /
 
 
-## Answer the following Questions:
+## Part I: Questions
 
 1. 	What is a Graphical User Interface (GUI) and how does that differ from the Command Line Interface (CLI)?
 
@@ -93,7 +93,7 @@ You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/h52y375q8sxc
 
 
 
-Part II - Writing Code
+## Part II - Writing Code
 
 As part of this exercise please open the shell and practice moving around into different files.  Best practice is to try a little bit every day. Try to challenge yourself by not using the mouse. For each of the questions below type your code and the result from the shell prompt.
 
