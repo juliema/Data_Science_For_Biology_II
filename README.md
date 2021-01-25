@@ -4,7 +4,7 @@
 Bioinformatics and Data Science Part II Spring 2021    
 BIOL 792-1036   
 Prof: Julie Allen; SFB 206; julieallen34@gmail.com   
-Class: Tuesdays and Thursdays 3:00 - 4:15 [Zoom Link](https://unr.zoom.us/j/89605053877?pwd=Z3FlYkRPK3lSZnBJSGN0TDlndzhmQT09)
+Class: Tuesdays and Thursdays 3:00 - 4:15 [zoom Link](https://unr.zoom.us/j/89605053877?pwd=Z3FlYkRPK3lSZnBJSGN0TDlndzhmQT09)
 Office Hours: By appointment    
 
 
