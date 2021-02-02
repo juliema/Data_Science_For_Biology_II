@@ -50,14 +50,14 @@ the course is going to be set up into 5 parts
 | Week    |  Month | Date |  Class                                    |  Due          |
 | ------- | -------|------| ------------------------------------------| ------------- |
 | Week 1  |	 Jan   |  26  | Course intro                              |                              
-| Week 1  |	 Jan   |  28  | Unix Refresh (shell)                      | 
-| Week 2  |	 Feb   |  2   | Version control with Git   (shell + git)  | 
-| Week 2  |	 Feb   |  4   | Version control with Git   (shell + git)  | Homework_1.Linux_Refresh
-| Week 3  |	 Feb   |  9   | Gitignore/Github (shell + git)            | 
+| Week 1  |	 Jan   |  28  | Unix Refresh (shell)                      |  
+| Week 2  |	 Feb   |  2   | Part I. Version control with Git - Intro + Creating a Repository (shell + git)  | 
+| Week 2  |	 Feb   |  4   | Tracking Changes, Exploring History (shell + git) | 
+| Week 3  |	 Feb   |  9   | Gitignore/Github (shell + git)            | Homework_1.Linux_Refresh
 | Week 3  |	 Feb   |  11  | Gitignore/Github (shell + git)            | 
 | Week 4  |	 Feb   |  16  | Git Conflicts (shell + git)               |  
 | Week 4  |	 Feb   |  18  | Git Conflicts (shell + git)               | Homework_2.Github                
-| Week 5  |	 Feb   |  23  | Part II.Data Science + Python Refresh     |  
+| Week 5  |	 Feb   |  23  | Part II.Data Science + Python Refresh     |  *1-2 Page Project Writeup Due
 | Week 5  |	 Feb   |  RD  | ------------READING DAY ------------------|  
 | Week 6  |	 Mar   |  2   | Pandas -- Faske     (python + pandas)     | Homework_3.Python_Refresh
 | Week 6  |	 Mar   |  4   | Pandas -- Faske     (python + pandas)     | 
