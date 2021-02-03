@@ -1,4 +1,4 @@
-## Week 4:  Intro to Version Control with Git
+## Week 2:  Intro to Version Control with Git
 
 Today we will go over introduction to version control with Git:
 	1. Intro to version control and setup - powerpoint
