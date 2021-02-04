@@ -115,7 +115,7 @@ As part of this exercise please open the shell and practice moving around into d
 6.	Write code that would create a loop to copy all the files in one directory ending in ```.txt``` to another directory. Paste the code here.  
 
 
-7.	Write a bash script with in-line documentation (hint #) to show how to run a made up python script called 'find_taxa.py' on set of files ending in ‘.fasta’. What is the name of your script? Type the script here. 
+7.	Write a bash script with in-line documentation (hint #) to show how to run a made up python program (script) called 'find_taxa.py' on set of files ending in ‘.fasta’. Show in the script how to run the program on each of those files. What is the name of your script? Type the script here. 
 
  
 8.	From the Hutia_DNA.fasta file tell me how on how many lines do we find the pattern ‘GAGA’. What was the code used to find this?
