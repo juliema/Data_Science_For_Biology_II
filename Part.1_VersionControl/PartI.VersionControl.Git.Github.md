@@ -28,13 +28,14 @@
 
 	7. [Collaborating in Github](https://swcarpentry.github.io/git-novice/08-collab/index.html) 	
  
-## Conflicts 
-	8. [Conflicts](https://swcarpentry.github.io/git-novice/09-conflict/index.html)
+## Conflicts Part 8
+	
+[Conflicts](https://swcarpentry.github.io/git-novice/09-conflict/index.html)
 
 
 ## Recordings
 
-[Tuesday Feb 1] (https://unr.zoom.us/rec/share/Cr7NWyYIGWA_0W0lnvKtLIXE4F_eyAVhvj6trtuuBnVfgibMbMLRgBRx31atOKmR.66zjtdhocmpCO7eW)
+[Tuesday Feb 1](https://unr.zoom.us/rec/share/Cr7NWyYIGWA_0W0lnvKtLIXE4F_eyAVhvj6trtuuBnVfgibMbMLRgBRx31atOKmR.66zjtdhocmpCO7eW)
 
 ## Homework 
 Your homework at the end of the github section is to turn in your homework 1 through your github repository along with a documented script of how you created your repository and added and committed your homework to github.  Send me the link to your repo over email.
