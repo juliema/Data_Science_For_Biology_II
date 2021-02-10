@@ -39,6 +39,8 @@
 
 [Thursday Feb 5th](https://unr.zoom.us/rec/share/YiSk3pxDEYPBZrXg_2-74fCV-LOvjW575jP7516fYT0yF3HNgXW4F1c57Ibff3Ai.mhRndHjdJCan0641)
 
+[Tuesday Feb 9th](https://unr.zoom.us/rec/play/qnVC_wBHD5AW9VoLWI07S-WvLg6YCPOblYN6gHeWzEoQSxgtkeokCCn1CW2YzqSXY9uLFWdYwghgQbiu.q_U9-6maNDn61npo?continueMode=true&_x_zm_rtaid=VX5_8WJkRmGvfggLcSH9hA.1612965370566.d507e5bd95b32027fb5666f3c69be310&_x_zm_rhtaid=882)
+
 # Homework 
 Your homework at the end of the github section is to turn in your homework 1 through your github repository along with a documented script of how you created your repository and added and committed your homework to github.  Send me the link to your repo over email.
  
