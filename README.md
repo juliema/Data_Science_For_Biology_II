@@ -54,16 +54,16 @@ the course is going to be set up into 5 parts
 | Week 2  |	 Feb   |  2   | Part I. Version control with Git, Creating a Repository, Tracking Changes  | 
 | Week 2  |	 Feb   |  4   | Tracking Changes, work on Homework 1 | 
 | Week 3  |	 Feb   |  9   | Exploring History, Gitignore           | Homework_1.Linux_Refresh
-| Week 3  |	 Feb   |  11  | Remotes in Github, Collaborating           | 
+| Week 3  |	 Feb   |  11  | Remotes in Github, Practice          | 
 | Week 4  |	 Feb   |  16  | Collaborating, Conflicts              |  
-| Week 4  |	 Feb   |  18  | Git Conflicts continued Work on HW,2,3 and write up | Homework_2.Github                
-| Week 5  |	 Feb   |  23  | Part II.Data Science + Python Refresh     |  *1-2 Page Project Writeup Due
+| Week 4  |	 Feb   |  18  | Git Conflicts continued work on HW,2,3 and write up |   Homework_2.Github             
+| Week 5  |	 Feb   |  23  | Part II.Data Science + Python Refresh     |  
 | Week 5  |	 Feb   |  RD  | ------------READING DAY ------------------|  
 | Week 6  |	 Mar   |  2   | Pandas -- Faske     (python + pandas)     | Homework_3.Python_Refresh
 | Week 6  |	 Mar   |  4   | Pandas -- Faske     (python + pandas)     | 
 | Week 7  |  Mar   |  RD  | ------------READING DAY ------------------| 
 | Week 7  |  Mar   |  10  | Jupyter Notebooks   (python + jupyter nb) | Homework_4.Pandas
-| Week 8  |  Mar   |  16  | Machine Learning                          |          
+| Week 8  |  Mar   |  16  | Machine Learning                          |  *1-2 Page Project Writeup Due        
 | Week 8  |	 Mar   |  18  | PartIII.Data Visualization ggplot2 Faske  | Homework_5.MachineLearning
 | Week 9  |	 Mar   |  23  | Data Visualization ggplot2 -- Faske (R)   | Homework_6.DV ggplot
 | Week 9  |	 Mar   |  25  | Data Visualization -- Jahner              |    
