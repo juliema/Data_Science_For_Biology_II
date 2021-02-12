@@ -43,7 +43,7 @@ the course is going to be set up into 5 parts
 ###  Part I - Unix - Version Control, Git, Github 
 ###  Part II  - Python -  Pandas, Notebooks
 ###  Part III - Data Visualization 
-###  Part IV - Data Cleaning, Relational Database#
+###  Part IV - Data Cleaning, Relational Databases
 ###  Part V - Clusters   
 
 
