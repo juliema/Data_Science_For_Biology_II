@@ -9,7 +9,7 @@ Here is a nice [Python_Refresh](https://pythonforbiologists.com/introduction) th
 
 Remember these Primers from Last Semester
 
-[Python_Primer1](https://github.com/tparchman/BIOL792_course_site/blob/master/week6_pythonI/python_1_primer.md) from last semester.
+[Python_Primer1](https://github.com/tparchman/BIOL792_course_site/blob/master/week6_pythonI/python_1_primer.md) 
 
 [Lists_for_loops](https://github.com/tparchman/BIOL792_course_site/blob/master/week7_pythonII/python_2_primer.md)
 
