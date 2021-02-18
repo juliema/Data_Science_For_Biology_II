@@ -1,4 +1,4 @@
-# Homework 1 - Linux Refresh
+# Homework 3 - Python Refresh
 
 In this homework we will review the basic principles of python programming. You will work through a few questions and build some scripts. You will need the Bloom et al Dataset found in this repository. 
 
