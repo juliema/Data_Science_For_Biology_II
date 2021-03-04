@@ -44,7 +44,7 @@ the course is going to be set up into 5 parts
 ###  Part II  - Python -  Pandas, Notebooks
 ###  Part III - Data Visualization 
 ###  Part IV - Data Cleaning, Relational Databases
-###  Part V - Clusters   
+###  Part V - Working with Clusters   
 
 
 | Week    |  Month | Date |  Class                                    |  Due          |
