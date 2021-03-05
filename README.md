@@ -62,8 +62,8 @@ the course is going to be set up into 5 parts
 | Week 6  |	 Mar   |  Tu 2   | Homework 3     | 
 | Week 6  |	 Mar   |  Th 4   | Pandas -- Faske     (python + pandas)     | Homework_3.Python_Refresh
 | Week 7  |  Mar   |  Tu 9 RD  | ------------READING DAY ------------------| 
-| Week 7  |  Mar   |  Th 10  | Pandas -- Faske     (python + pandas)  | Homework_4.Pandas
-| Week 8  |  Mar   |  16  | Machine Learning                          |  *1-2 Page Project Writeup Due        
+| Week 7  |  Mar   |  Th 10  | Pandas -- Faske     (python + pandas)  | 
+| Week 8  |  Mar   |  16  | Machine Learning                          |  Homework_4.Pandas/*1-2 Page Project Writeup Due        
 | Week 8  |	 Mar   |  18  | PartIII.Data Visualization ggplot2 Faske  | Homework_5.MachineLearning
 | Week 9  |	 Mar   |  23  | Data Visualization ggplot2 -- Faske (R)   | Homework_6.DV ggplot
 | Week 9  |	 Mar   |  25  | Data Visualization -- Jahner              |    
@@ -71,7 +71,7 @@ the course is going to be set up into 5 parts
 | Week 10 |	 Apr   |  1   | Part IV.Data Science + Open Refine        | 
 | Week 11 |	 Apr   |  6   | Data Science + Open Refine (open refine)  | 
 | Week 11 |  Apr   |  8   | Relational Databases                      | Homework_8.OR
-| Week 12 |  Apr   |  13  | Sqlite                                    |   
+| Week 12 |  Apr   |  13  | Sqlite  [Pronghorn Open]                                  |   
 | Week 12 |  Apr   |  15  | Part V.Clusters - Sebastian Smith         | Homework_9.Sqlite
 | Week 13	|  Apr   |  20  | Clusters - Sebastian Smith                | 
 | Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                | 
