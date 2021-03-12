@@ -63,7 +63,7 @@ the course is going to be set up into 5 parts
 | Week 6  |	 Mar   |  Th 4   | Pandas -- Faske     (python + pandas)     | Homework_3.Python_Refresh
 | Week 7  |  Mar   |  Tu 9 RD  | ------------READING DAY ------------------| 
 | Week 7  |  Mar   |  Th 10  | Pandas -- Faske     (python + pandas)  | 
-| Week 8  |  Mar   |  16  | Machine Learning                          |  Homework_4.Pandas/*1-2 Page Project Writeup Due        
+| Week 8  |  Mar   |  16  | Project Write Up/Homework Work day        |  Homework_4.Pandas/*1-2 Page Project Writeup Due        
 | Week 8  |	 Mar   |  18  | PartIII.Data Visualization ggplot2 Faske  | Homework_5.MachineLearning
 | Week 9  |	 Mar   |  23  | Data Visualization ggplot2 -- Faske (R)   | Homework_6.DV ggplot
 | Week 9  |	 Mar   |  25  | Data Visualization -- Jahner              |    
