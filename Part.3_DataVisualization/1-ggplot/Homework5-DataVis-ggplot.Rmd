@@ -105,9 +105,10 @@ All these plots should have the same general layout but change the type of plot 
 
 ### Task 3: layering your plots
 
-Take your two favorite figures that you made and put them together using *patchwork* or *ggarrange* 
+Make any two figures with the bloom_df! Can be something we've done or something completely different. Make one TERRIBLE figure and one GREAT figure.
 
-Feel free to make any other figure you want with this data and include it here. Have fun with it, play around. 
+Put them together using *patchwork* or *ggarrange* 
+
 
 ```{r 3}
 #plot 3
