@@ -11,6 +11,8 @@ Data Cleaning Day:
 
 # Relational Databases
 
+[Relational Database 1 Recording](https://unr.zoom.us/rec/share/XYz726TA8elaGoZhka6O7y9KFIff7BIRr_Pd3MUOps3kyGdSvnqhzi-iemHSdJPL.Y9mIq57iH2wUCXp)
+
 # Downloads
 
 Read through [this page](https://datacarpentry.org/sql-socialsci/setup.html)
