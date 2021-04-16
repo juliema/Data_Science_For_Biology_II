@@ -1,6 +1,10 @@
 # Cleaning up dirty data with OpenRefine
 
 [Recording_OpenRefine](https://unr.zoom.us/rec/share/Utk-zall6vMfJtJxO8X7Cty2QvDgs0bSsB2EFgp5Z_Bq3CTnlnZWmnfMHMPDIFf0.R2hKvi_kjfmRil8e?startTime=1617314677000)
+[Recording_Relational Database Setup](https://unr.zoom.us/rec/share/muWLd5N6nLQtXsdE2ld5maP7cbAk4c361MUjG5DQ2tlKqfCZAxHBUMBDishe0195.NGyxISoERlogZtR_?startTime=1617920014000)
+[Queries in Relational Databases](https://unr.zoom.us/rec/share/v0mHM_HxKlSWyuq1sUKmy93XNISFTysJntGeZkB3CMXvlEeOiUo6eqgnkAK5Ar62.BrRqypKDp_e42o1T)
+
+
 
 # Open Refine
 We will be going over parts of this lesson on [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/index.html). You will need this file [Portal_rodents_19772002_scinameUUIDs.csv](https://www.dropbox.com/s/ke2xgkgpw1qc11n/Portal_rodents_19772002_scinameUUIDs.csv?dl=0).
