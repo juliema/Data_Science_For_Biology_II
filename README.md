@@ -71,13 +71,15 @@ the course is going to be set up into 5 parts
 | Week 10 |	 Apr   |  1   | Part IV.Data Science + Open Refine        | Homework_6.DV
 | Week 11 |	 Apr   |  6   | Data Science + Open Refine (open refine)  | 
 | Week 11 |  Apr   |  8   | Relational Databases                      | Homework_7.OR
-| Week 12 |  Apr   |  13  | Sqlite  [Pronghorn Open]                                  |   
-| Week 12 |  Apr   |  15  | Part V.Clusters - Sebastian Smith         | Homework_8.Sqlite
+| Week 12 |  Apr   |  13  | Sqlite  [Pronghorn Open]                  |   
+| Week 12 |  Apr   |  15  | Part V.Clusters - Sebastian Smith         |
 | Week 13	|  Apr   |  20  | Clusters - Sebastian Smith                | 
 | Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                | 
-| Week 14	|  Apr   |  27  | Project Prep                              | Homework_9.clusters
-| Week 14	|  Apr   |  29  | Project Presentations                     | *projects due
+| Week 14	|  Apr   |  27  | Project Prep                              | Homework_8.clusters
+| Week 14	|  Apr   |  29  | Project Prep                              | 
 | Week 15	|  May   |  4   | Project presentations                     | *projects due
+
+** all homework is due by Tuesday May 11th
 
 
 ## Statement on Academic Dishonesty:
