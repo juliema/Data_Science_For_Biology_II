@@ -77,7 +77,8 @@ the course is going to be set up into 5 parts
 | Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                | 
 | Week 14	|  Apr   |  27  | Project Prep                              | Homework_8.clusters
 | Week 14	|  Apr   |  29  | Project Prep                              | 
-| Week 15	|  May   |  4   | Project presentations                     | *projects due
+| Week 15	|  May   |  4   | Project presentations                     | *presentations due
+| Week 16 |  May   |  10  | Whitepapers and any remaining homework is due
 
 ** all homework is due by Tuesday May 11th
 
