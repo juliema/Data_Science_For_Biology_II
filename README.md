@@ -1,20 +1,20 @@
 # bioinformatics_and_data_science_part_II
 
 
-Bioinformatics and Data Science Part II Spring 2021    
+Bioinformatics and Data Science Part II Spring 2022    
 BIOL 792-1036   
-Prof: Julie Allen; SFB 206; julieallen34@gmail.com   
-Class: Tuesdays and Thursdays 3:00 - 4:15 [zoom Link](https://unr.zoom.us/j/89605053877?pwd=Z3FlYkRPK3lSZnBJSGN0TDlndzhmQT09)
+Prof: Julie Allen; SFB 206; jallen23@unr.edu   
+Class: Tuesdays and Thursdays 3:00 - 4:15; LME 315
 Office Hours: By appointment    
 
 
 ## Course Description
-Online data repositories and individual data sets are growing at unprecedented rates. The need for bioinformatic and data science skills is rapidly growing to match these needs. The main goal of the second part of this two part series is to continue building on the linux and python skills the students learned in the first semester and to add an understanding of data science and tools for managing large datasets. The course will focus on python programming and working in the shell along with introduction to data standards and version control, tools for cleaning dirty data, data visualization and understanding how to work with clusters etc. 
+The nature of biological datasets have changed dramatically in the last few decades. The need for bioinformatic and data science skills is rapidly growing. The goals of the second part of this two part series is to continue building on the linux and python skills the students learned in the first semester and to add an understanding of data science and tools for managing large datasets. The course will focus on python programming and working in the shell along with introduction to data standards and version control, tools for cleaning dirty data, data visualization, relational databases and working with High Performance Clusters (HPCs). 
 
 With an understanding of how to integrate different data sources we will increase not only the creativity of our science, but also expand our ability to do more broad-scale research. A prerequisite for this course is enrollment as an M.S. or PhD student and have taken Data_Science_For_Biology_I. If you have not taken this course email me - to determine eligibility. The course will be capped at 15 students.  
 
 ## Student Learning Outcomes
-The goal of the course is to learn many data science tools/tricks and hacks from a bioinformatics angle.  By the end of the course you should feel comfortable with the tools data scientists use in Biology and be able to solve and/or trouble shoot both small and large-scale data challenges in biology. 
+The goal of the course is to learn data science tools/tricks and hacks from a bioinformatics angle.  By the end of the course you should feel comfortable with the tools data scientists use in biology and be able to solve and/or trouble shoot both small and large-scale data challenges in biology. 
 
 ## Material Distribution
 All readings, lab instructions, datasets, etc. will be available here. 
@@ -27,13 +27,13 @@ _Homework assignments (40%)_ Assignments will involve working in Unix, writing s
 
 _Participation (20%)_ Participation entails showing up for class, prepared and doing your best to work through assigned tasks and programming example problems. Becasue all classes build on previous classes if you need to miss a class contact me.  Some of the material we cover might be easy and quick to figure out. Other material and tasks will present roadblocks that are more difficult. We are building a positive community in this class, your attitude and helpfulness will be evaluated. 
 
-_Independent project (40%)_ Everyone will be responsible for an independent project (this can be done either individually, or as a group no more than 3 people). The goal of your semester project is to incorporate the tools learned in this classroom into a project of your design. Ideally this will be something related to your research and will help you move your PhD forward, but you could decide to work on new project. A requirement of the project will be to incorporate at least 2 tools learned in the class to resolve a biological question or computational problem. You will turn in a one to two page write up of the project and how you will solve it by week 6. On the last day of class you will turn in a one to three page write up of the project, put the documented code on github, (or submit to me) and present your project in a 10-15 min presentation the last day of class. 
+_Independent project (40%)_ Everyone will be responsible for an independent project (this can be done either individually, or as a group no more than 2 people). The goal of your semester project is to incorporate the tools learned in this classroom into a project of your design. Ideally this will be something related to your research and will help you move your PhD forward, but you could decide to work on new project. A requirement of the project will be to incorporate at least 2 tools learned in the class to resolve a biological question or computational problem. You will turn in a 1-2 page write up of the project and how you will solve it by week 6. On the last day of class you will turn in a one to three page write up of the project, put the documented code on github, (or submit to me) and present your project in a 10-15 min presentation the last day of class. 
 
 #### White paper
-- _1-2 page White Paper:_  The 1-2 page write up should be similar format to a whtie paper. Therefore there should be an introduction to the biological or other type of problem you are trying to solve (with references), just like a white paper. The next section will be there methods. Here describe what you are going to do. For example "I will write a python script to take the data from a phyllip format to a fasta format". There should be two techniques from the class used (e.g. python, shell scripts, Github, Relational Database, Cleaning Data).
+- _1-2 page White Paper:_  The 1-2 page write up should be similar format to a whtie paper. Therefore there should be an introduction to the biological or other type of problem you are trying to solve (with references), just like a white paper followed by a methods section. The methods will fully describe your plan. For example "I will write a python script to take the data from a phyllip format to a fasta format". There should be two techniques from the class used (e.g. python, shell scripts, Github, Relational Database, Cleaning Data).
 
 #### Project Summary + Presentation
-  - _1-2 page Project Paper:_  The 1-2 page final paper should be similar format to the whiite paper but added results and discussion section. Again explain in detail what aare the two tools from the class you used and how thata turned oout. In the diiscussion talk about how this helped your project and what you would do next (or what you leaarned). 
+  - _1-2 page Project Paper:_  The 1-2 page final paper should be similar format to the whiite paper but added results and discussion section. Explain in detail the tools from class you used. In the diiscussion talk about how this helped your project and what you would do next and what you leaarned. 
   
   - _10 - 15 min presentation:_  On the last day of class each of you will present your project to the class. No more than 15 min each - Feel free to show GitHub repos anad or run code in class. 
 
@@ -41,46 +41,44 @@ _Independent project (40%)_ Everyone will be responsible for an independent proj
 *this is the tentative outline of the schedule – the events may change according to the speed and needs of the students in the course
 the course is going to be set up into 5 parts
 ###  Part I - Unix - Version Control, Git, Github 
-###  Part II  - Python -  Pandas, Notebooks
+###  Part II  - Python - Notebooks, Pandas
 ###  Part III - Data Visualization 
 ###  Part IV - Data Cleaning, Relational Databases
 ###  Part V - Working with Clusters   
 
 
-| Week    |  Month | Date |  Class                                    |  Due          |
-| ------- | -------|------| ------------------------------------------| ------------- |
-| Week 1  |	 Jan   |  26  | Course intro                              |                              
-| Week 1  |	 Jan   |  28  | Unix Refresh (shell)                      |  
-| Week 2  |	 Feb   |  2   | Part I. Version control with Git, Creating a Repository, Tracking Changes  | 
-| Week 2  |	 Feb   |  4   | Tracking Changes, work on Homework 1 | 
-| Week 3  |	 Feb   |  9   | Exploring History, Gitignore           | Homework_1.Linux_Refresh
-| Week 3  |	 Feb   |  11  | Remotes in Github, Practice          | 
-| Week 4  |	 Feb   |  16  | Collaborating, Conflicts              |  
-| Week 4  |	 Feb   |  Th 18  | Git Conflicts Git Wrap-up - Homework 2 |   Homework_2.Github             
-| Week 5  |	 Feb   |Tu 23  | Part II. Intro to Programming - Jupyter Notebooks  HW 3 |  
-| Week 5  |	 Feb   |  Th RD  | ------------READING DAY ------------------|  
-| Week 6  |	 Mar   |  Tu 2   | Homework 3     | 
-| Week 6  |	 Mar   |  Th 4   | Pandas -- Faske     (python + pandas)     | Homework_3.Python_Refresh
-| Week 7  |  Mar   |  Tu 9 RD  | ------------READING DAY ------------------| 
-| Week 7  |  Mar   |  Th 10  | Pandas -- Faske     (python + pandas)  | 
-| Week 8  |  Mar   |  16  | Project Write Up/Homework Work day        | Homework_4.Pandas/*1-2 Page Project Writeup Due        
-| Week 8  |	 Mar   |  18  | PartIII.Data Visualization ggplot2 Faske  | 
-| Week 9  |	 Mar   |  23  | Data Visualization ggplot2 -- Faske (R)   | 
-| Week 9  |	 Mar   |  25  | Data Visualization -- Jahner              | Homework_5.DV ggplot  
-| Week 10 |	 Mar   |  30  | Data Visualization -- Jahner              | 
-| Week 10 |	 Apr   |  1   | Part IV.Data Science + Open Refine        | Homework_6.DV
-| Week 11 |	 Apr   |  6   | Data Science + Open Refine (open refine)  | 
-| Week 11 |  Apr   |  8   | Relational Databases                      | Homework_7.OR
-| Week 12 |  Apr   |  13  | Sqlite  [Pronghorn Open]                  |   
-| Week 12 |  Apr   |  15  | Part V.Clusters - Sebastian Smith         |
-| Week 13	|  Apr   |  20  | Clusters - Sebastian Smith                | 
-| Week 13	|  Apr   |  22  | Clusters - Sebastian Smith                | 
-| Week 14	|  Apr   |  27  | Project Prep                              | Homework_8.clusters
-| Week 14	|  Apr   |  29  | Project Prep                              | 
-| Week 15	|  May   |  4   | Project presentations                     | *presentations due
-| Week 16 |  May   |  10  | Whitepapers and any remaining homework is due
-
-** all homework is due by Tuesday May 11th
+| Week    |  Month | Date | Day   |  Class                                    |  Due          |
+| ------- | -------|------| -------------------------------------------| ------------- |
+| Week 1  |   Jan  |  18  | Tues  |  Course intro                              				        |                              
+| Week 1  |   Jan  |  20  | Thurs |  Unix Refresh (shell)                      			                |  
+| Week 2  |   Jan  |  25  | Tues  |  Part I. Version control with Git, Creating a Repository, Tracking Changes  | 
+| Week 2  |   Jan  |  27  | Thurs |  Tracking Changes, work on Homework 1 					| 
+| Week 3  |   Feb  |  1   | Tues  |  Exploring History, Gitignore           					| Homework_1.Linux_Refresh
+| Week 3  |   Feb  |  3   | Thurs |  Remotes in Github, Practice          					| 
+| Week 4  |   Feb  |  8   | Tues  |  Collaborating, Conflicts                         			        |  
+| Week 4  |   Feb  |  10  | Thurs |  Git Conflicts Git Wrap-up - Homework 2 					| Homework_2.Github             
+| Week 5  |   Feb  |  15  | Tues  |  Part II. Intro to Programming - Jupyter Notebooks  HW 3 	                |  
+| Week 5  |   Feb  |  17  | Thurs |  Homework 3     								|  
+| Week 6  |   Feb  |  22  | Tues  |  Pandas 	     (python + pandas)     				        | Homework_3.Python_Refresh
+| Week 6  |   Feb  |  24  | Thurs |  Pandas 	     (python + pandas)  					|
+| Week 7  |   Mar  |  1   | Tues  |  Project Write Up 							        |
+| Week 7  |   Mar  |  3   | Thurs |  PartIII.Data Visualization ggplot2 (R) 				        | Homework_4.Pandas/*1-2 Page Project Writeup Due
+| Week 8  |   Mar  |  8   | Tues  |  Data Visualization ggplot2 -- (R)   				        |
+| Week 8  |   Mar  |  10  | Thurs |  Homework 5/Project Work                                                    |
+| SB      |   Mar  |  15 - 17 |Tues-Thurs    |  Spring Break                                                    | 
+| Week 9  |   Mar  |  22  | Tues  |  Data Visualization              						| Homework_5.DV ggplot
+| Week 9  |   Mar  |  24  | Thurs |  Data Visualization                                                         |
+| Week 10 |   Mar  |  29  | Tues  |  Part IV.Data Science + Open Refine        					| Homework_6.DV
+| Week 10 |   Mar  |  31  | Thurs |  Data Science + Open Refine (open refine)  					|
+| Week 11 |   Apr  |  5   | Tues  |  Homework 7 								|
+| Week 11 |   Apr  |  7   | Thurs |  Relational Databases  				                        | Homework_7.OR
+| Week 12 |   Apr  |  12  | Tues  |  Sqlite  [Pronghorn Open]  							|
+| Week 13 |   Apr  |  14  | Thurs |  Homework 8        	 				             	        |
+| Week 15 |   Apr  |  19  | Part V.Clusters                                  					| Homework_8.Sqlite 
+| Week 15 |   Apr  |  21  | Working with HPCs (Homework 9)	          					|
+| Week 16 |   Apr  |  26  | Homework 9/Project Prep                              				| Homework_9.clusters
+| Week 16 |   Apr  |  28  | Project Prep                             					        |
+| Week 17 |   May  |  3rd | Project presentations                     						| *presentations due
 
 
 ## Statement on Academic Dishonesty:
@@ -91,9 +89,6 @@ Statement of Disability Services
 For Traditional and Seated Classrooms:
 “Any student with a disability needing academic adjustments or accommodations is requested to speak with me or the Disability Resource Center (Pennington Achievement Center Suite 230) as soon as possible to arrange for appropriate accommodations.”
 
-### For Online Courses:
-“If you are a student who would normally seek accommodations in a traditional classroom, please contact me as soon as possible.  You may also contact the Disability Resource Center for services for online courses by emailing drc@unr.edu or calling 775-784-6000.  Academic accommodations for online courses may be different than those for seated classrooms; it is important that you contact us as soon as possible to discuss services.   The University of Nevada, Reno supports equal access for students with disabilities.  For more information, visit the Disability Resource Center.”
-This course may leverage 3rd party web/multimedia content, if you experience any issues accessing this content, please notify your instructor
 
 #### Statement on Audio and Video Recording:
 "Surreptitious or covert video-taping of class or unauthorized audio recording of class is prohibited by law and by Board of Regents policy. This class may be videotaped or audio recorded only with the written permission of the instructor. In order to accommodate students with disabilities, some students may be given permission to record class lectures and discussions. Therefore, students should understand that their comments during class may be recorded."
