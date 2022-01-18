@@ -2,7 +2,7 @@
 
 In this homework I will be asking you to review the purpose of the shell and how it works, common shell commands and demonstrate scripting skills. 
 
-You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63nt5/Hutia_DNA.fasta?dl=0) download from the github repository for this module.
+You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63nt5/Hutia_DNA.fasta?dl=0).
 
 ## General concepts to refresh and lessons to review if you need them:
 
@@ -107,7 +107,7 @@ As part of this exercise please open the shell and practice moving around into d
 
 3.	On your computer create a directory on your desktop.  Create two files without opening them that have file extensions ```.txt```. Then use wildcards to list the files in that directory.  Paste you code here.
 
-4.	Download the file Hutia_DNA.fasta from the Github repo. Make a new directory on the desktop. Move the file into that directory. List the contents of the directory.  How many lines are in this file? Fasta files are a type of data file that holds DNA sequences. They are all formatted the same. The first line starts with a > and a name followed by a line break, and then DNA sequence followed by a line break. The next line starts with an > and another name followed by a line break and the DNA sequence. With that in mind, how could you use linux commands to determine how many sequences are in this file? How many sequences are in this file?
+4.	Download the file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63nt5/Hutia_DNA.fasta?dl=0) from the Github repo. Make a new directory on the desktop. Move the file into that directory. List the contents of the directory.  How many lines are in this file? Fasta files are a type of data file that holds DNA sequences. They are all formatted the same. The first line starts with a > and a name followed by a line break, and then DNA sequence followed by a line break. The next line starts with an > and another name followed by a line break and the DNA sequence. With that in mind, how could you use linux commands to determine how many sequences are in this file? How many sequences are in this file?
 
 5.	Build a single line of code that would take the first 100 sequences of this file and put them in a new file called ‘MyOutputFile.fasta’. Use a combination of wc, sort and uniq in a single line of code to tell me how many unique lines are in this file.  Paste your commands and the answer here.
 
