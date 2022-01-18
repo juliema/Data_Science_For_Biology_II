@@ -49,36 +49,36 @@ the course is going to be set up into 5 parts
 
 | Week    |  Month | Date | Day   |  Class       |  Due          |
 | ------- | -------|------| ------| ------------ | ------------- |
-| Week 1  |   Jan  |  18  | Tues  | Course intro | |
-| Week 1  |   Jan  |  20  | Thurs |  Unix Refresh (shell)                      			                |  
-| Week 2  |   Jan  |  25  | Tues  |  Part I. Version control with Git, Creating a Repository, Tracking Changes  | 
-| Week 2  |   Jan  |  27  | Thurs |  Tracking Changes, work on Homework 1 					| 
-| Week 3  |   Feb  |  1   | Tues  |  Exploring History, Gitignore           					| Homework_1.Linux_Refresh
-| Week 3  |   Feb  |  3   | Thurs |  Remotes in Github, Practice          					| 
-| Week 4  |   Feb  |  8   | Tues  |  Collaborating, Conflicts                         			        |  
-| Week 4  |   Feb  |  10  | Thurs |  Git Conflicts Git Wrap-up - Homework 2 					| Homework_2.Github             
-| Week 5  |   Feb  |  15  | Tues  |  Part II. Intro to Programming - Jupyter Notebooks  HW 3 	                |  
-| Week 5  |   Feb  |  17  | Thurs |  Homework 3     								|  
-| Week 6  |   Feb  |  22  | Tues  |  Pandas 	     (python + pandas)     				        | Homework_3.Python_Refresh
-| Week 6  |   Feb  |  24  | Thurs |  Pandas 	     (python + pandas)  					|
-| Week 7  |   Mar  |  1   | Tues  |  Project Write Up 							        |
-| Week 7  |   Mar  |  3   | Thurs |  PartIII.Data Visualization ggplot2 (R) 				        | Homework_4.Pandas/*1-2 Page Project Writeup Due
-| Week 8  |   Mar  |  8   | Tues  |  Data Visualization ggplot2 -- (R)   				        |
-| Week 8  |   Mar  |  10  | Thurs |  Homework 5/Project Work                                                    |
-| SB      |   Mar  |  15 - 17 |Tues-Thurs    |  Spring Break                                                    | 
-| Week 9  |   Mar  |  22  | Tues  |  Data Visualization              						| Homework_5.DV ggplot
-| Week 9  |   Mar  |  24  | Thurs |  Data Visualization                                                         |
-| Week 10 |   Mar  |  29  | Tues  |  Part IV.Data Science + Open Refine        					| Homework_6.DV
-| Week 10 |   Mar  |  31  | Thurs |  Data Science + Open Refine (open refine)  					|
-| Week 11 |   Apr  |  5   | Tues  |  Homework 7 								|
-| Week 11 |   Apr  |  7   | Thurs |  Relational Databases  				                        | Homework_7.OR
-| Week 12 |   Apr  |  12  | Tues  |  Sqlite  [Pronghorn Open]  							|
-| Week 13 |   Apr  |  14  | Thurs |  Homework 8        	 				             	        |
-| Week 15 |   Apr  |  19  | Part V.Clusters                                  					| Homework_8.Sqlite 
-| Week 15 |   Apr  |  21  | Working with HPCs (Homework 9)	          					|
-| Week 16 |   Apr  |  26  | Homework 9/Project Prep                              				| Homework_9.clusters
-| Week 16 |   Apr  |  28  | Project Prep                             					        |
-| Week 17 |   May  |  3rd | Project presentations                     						| *presentations due
+| 1  |   Jan  |  18  | Tues  | Course intro | |
+| 1  |   Jan  |  20  | Thurs |  Unix Refresh (shell)                      			                |  
+| 2  |   Jan  |  25  | Tues  |  Part I. Version control with Git, Creating a Repository, Tracking Changes  | 
+| 2  |   Jan  |  27  | Thurs |  Tracking Changes, work on Homework 1 					| 
+| 3  |   Feb  |  1   | Tues  |  Exploring History, Gitignore           					| Homework_1.Linux_Refresh
+| 3  |   Feb  |  3   | Thurs |  Remotes in Github, Practice          					| 
+| 4  |   Feb  |  8   | Tues  |  Collaborating, Conflicts                         			        |  
+| 4  |   Feb  |  10  | Thurs |  Git Conflicts Git Wrap-up - Homework 2 					| Homework_2.Github             
+| 5  |   Feb  |  15  | Tues  |  Part II. Intro to Programming - Jupyter Notebooks  HW 3 	                |  
+| 5  |   Feb  |  17  | Thurs |  Homework 3     								|  
+| 6  |   Feb  |  22  | Tues  |  Pandas 	     (python + pandas)     				        | Homework_3.Python_Refresh
+| 6  |   Feb  |  24  | Thurs |  Pandas 	     (python + pandas)  					|
+| 7  |   Mar  |  1   | Tues  |  Project Write Up 							        |
+| 7  |   Mar  |  3   | Thurs |  PartIII.Data Visualization ggplot2 (R) 				        | Homework_4.Pandas/*1-2 Page Project Writeup Due
+| 8  |   Mar  |  8   | Tues  |  Data Visualization ggplot2 -- (R)   				        |
+| 8  |   Mar  |  10  | Thurs |  Homework 5/Project Work                                                    |
+| SB |   Mar  |  15 - 17 |Tues-Thurs    |  Spring Break                                                    | 
+| 9  |   Mar  |  22  | Tues  |  Data Visualization              						| Homework_5.DV ggplot
+| 9  |   Mar  |  24  | Thurs |  Data Visualization                                                         |
+| 10 |   Mar  |  29  | Tues  |  Part IV.Data Science + Open Refine        					| Homework_6.DV
+| 10 |   Mar  |  31  | Thurs |  Data Science + Open Refine (open refine)  					|
+| 11 |   Apr  |  5   | Tues  |  Homework 7 								|
+| 11 |   Apr  |  7   | Thurs |  Relational Databases  				                        | Homework_7.OR
+| 12 |   Apr  |  12  | Tues  |  Sqlite  [Pronghorn Open]  							|
+| 13 |   Apr  |  14  | Thurs |  Homework 8        	 				             	        |
+| 15 |   Apr  |  19  | Tues  |  Part V.Clusters                                  					| Homework_8.Sqlite 
+| 15 |   Apr  |  21  | Thurs |  Working with HPCs (Homework 9)	          					|
+| 16 |   Apr  |  26  | Tues  |  Homework 9/Project Prep                              				| Homework_9.clusters
+| 16 |   Apr  |  28  | Thurs |  Project Prep                             					        |
+| 17 |   May  |  3   | Tues  |  Project presentations                     						| *presentations due
 
 
 ## Statement on Academic Dishonesty:
