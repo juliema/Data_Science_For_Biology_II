@@ -1,6 +1,5 @@
 # bioinformatics_and_data_science_part_II
 
-
 Bioinformatics and Data Science Part II Spring 2022    
 BIOL 792-1036   
 Prof: Julie Allen; SFB 206; jallen23@unr.edu   
@@ -125,6 +124,4 @@ You will be provided specific instructions and procedures by your instructor for
 
 #### Failure to Comply with Policy (including as outlined in this Syllabus) or Directives of a University Employee
 In accordance with section 6,502 of the University Administrative Manual, a student may receive academic and disciplinary sanctions for failure to comply with policy, including this syllabus, for failure to comply with the directions of a University Official, for disruptive behavior in the classroom, or any other prohibited action. “Disruptive behavior" is defined in part as behavior, including but not limited to failure to follow course, laboratory or safety rules, or endangering the health of others. A student may be dropped from class at any time for misconduct or disruptive behavior in the classroom upon recommendation of the instructor and with approval of the college dean. A student may also receive disciplinary sanctions through the Office of Student Conduct for misconduct or disruptive behavior, including endangering the health of others, in the classroom. The student shall not receive a refund for course fees or tuition.
-
-
 
