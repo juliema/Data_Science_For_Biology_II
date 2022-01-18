@@ -49,13 +49,7 @@ the course is going to be set up into 5 parts
 
 | Week    |  Month | Date | Day   |  Class       |  Due          |
 | ------- | -------|------| ------| ------------ | ------------- |
-| Week 1  |   Jan  |  18  | Tues  | Course intro |
-
-
-
-
-
-              
+| Week 1  |   Jan  |  18  | Tues  | Course intro | |
 | Week 1  |   Jan  |  20  | Thurs |  Unix Refresh (shell)                      			                |  
 | Week 2  |   Jan  |  25  | Tues  |  Part I. Version control with Git, Creating a Repository, Tracking Changes  | 
 | Week 2  |   Jan  |  27  | Thurs |  Tracking Changes, work on Homework 1 					| 
