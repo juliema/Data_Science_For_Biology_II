@@ -47,9 +47,9 @@ the course is going to be set up into 5 parts
 ###  Part V - Working with Clusters   
 
 
-| Week    |  Month | Date | Day   |  Class                                                                      |  Due          |
-| ------- | -------|------| ------------------------------------------------------------------------------------| ------------- |
-| Week 1  |   Jan  |  18  | Tues  |  Course intro                              				        |
+| Week    |  Month | Date | Day   |  Class       |  Due          |
+| ------- | -------|------| ------| ------------ | ------------- |
+| Week 1  |   Jan  |  18  | Tues  | Course intro |
 
 
 
