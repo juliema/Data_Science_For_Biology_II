@@ -3,7 +3,8 @@
 In this homework I will be asking you to review the purpose of the shell and how it works, common shell commands and demonstrate scripting skills. 
 
 For the class download this file [shell-lesson-data.zip](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip)
-You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63nt5/Hutia_DNA.fasta?dl=0).
+
+For the homework. You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63nt5/Hutia_DNA.fasta?dl=0).
 
 ## General concepts to refresh and lessons to review if you need them:
 
