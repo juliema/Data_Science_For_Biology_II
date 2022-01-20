@@ -82,11 +82,13 @@ For the homework. You will need this file [Hutia_DNA.fasta](https://www.dropbox.
 23.	What is a loop and when would you use it?
 
 24.	In a directory with the following files. What would the following loop do?
-         ```apple.txt, banana.txt, orange.txt 
+         
+	 ```apple.txt, banana.txt, orange.txt 
 		$ for  filename in  *.txt; do
 		> cat  ${filename}  >>fruits.txt
 		> done
 		```
+		
 25.	What is a shell script?
 
 26.	What are the benefits of writing and running a script over typing the code in?
