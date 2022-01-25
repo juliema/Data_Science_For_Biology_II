@@ -2,7 +2,9 @@
 
 In this homework I will be asking you to review the purpose of the shell and how it works, common shell commands and demonstrate scripting skills. 
 
-You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63nt5/Hutia_DNA.fasta?dl=0).
+For the class download this file [shell-lesson-data.zip](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip)
+
+For the homework. You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63nt5/Hutia_DNA.fasta?dl=0).
 
 ## General concepts to refresh and lessons to review if you need them:
 
@@ -80,11 +82,12 @@ You will need this file [Hutia_DNA.fasta](https://www.dropbox.com/s/07y610c8zt63
 23.	What is a loop and when would you use it?
 
 24.	In a directory with the following files. What would the following loop do?
-         ```apple.txt, banana.txt, orange.txt 
+         
+	 ```apple.txt, banana.txt, orange.txt 
 		$ for  filename in  *.txt; do
 		> cat  ${filename}  >>fruits.txt
 		> done
-		```
+	
 25.	What is a shell script?
 
 26.	What are the benefits of writing and running a script over typing the code in?
