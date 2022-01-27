@@ -52,10 +52,10 @@ the course is going to be set up into 5 parts
 | 1  |   Jan  |  18  | Tues  | Course intro | |
 | 1  |   Jan  |  20  | Thurs |  Part 1 Linux Refresh                       			                |  
 | 2  |   Jan  |  25  | Tues  |  Part 2 Version Control with Git  |  Homework_1.Linux_Refresh
-| 2  |   Jan  |  27  | Thurs |  Tracking Changes, Exploring History 1 					| 
-| 3  |   Feb  |  1   | Tues  |   Gitignore, Remotes in Github           					| 
-| 3  |   Feb  |  3   | Thurs |  Remotes in Github, Practice          					| 
-| 4  |   Feb  |  8   | Tues  |  Collaborating, Conflicts                         			        |  
+| 2  |   Jan  |  27  | Thurs |  Tracking Changes, Exploring History Gitignore 					| 
+| 3  |   Feb  |  1   | Tues  |   Remotes in Github, Practice          					| 
+| 3  |   Feb  |  3   | Thurs |  Collaborating         					| 
+| 4  |   Feb  |  8   | Tues  |  Conflicts                         			        |  
 | 4  |   Feb  |  10  | Thurs |  Git Conflicts & Wrap-up - Homework 2 					| Homework_2.Github             
 | 5  |   Feb  |  15  | Tues  |  Part 3 Intro to Programming - Notebooks 	                |  
 | 5  |   Feb  |  17  | Thurs |  Homework 3     								|  
