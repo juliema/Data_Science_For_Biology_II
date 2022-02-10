@@ -54,12 +54,12 @@ the course is going to be set up into 5 parts
 | 2  |   Jan  |  25  | Tues  |  Part 2 Version Control with Git  |  Homework_1.Linux_Refresh
 | 2  |   Jan  |  27  | Thurs |  went over homework 1 Tracking Changes 					| 
 | 3  |   Feb  |  1   | Tues  |  Exploring History Gitignore, Remotes in Github, Practice          					| 
-| 3  |   Feb  |  3   | Thurs |  Collaborating, Conflicts         					| 
-| 4  |   Feb  |  8   | Tues  |  Introduction to Programming                         			        |  
-| 4  |   Feb  |  10  | Thurs |  Homework 2 					| Homework_2.Github             
-| 5  |   Feb  |  15  | Tues  |  Part 3 Intro to Programming - Notebooks 	                |  
-| 5  |   Feb  |  17  | Thurs |  Homework 3     								|  
-| 6  |   Feb  |  22  | Tues  |  Pandas 	          				        | Homework_3.Python_Refresh
+| 3  |   Feb  |  3   | Thurs |  Collaborating,       					| 
+| 4  |   Feb  |  8   | Tues  |  Conflicts                        			        |  
+| 4  |   Feb  |  10  | Thurs |   Introduction to Programming/Notebooks Homework 3 					| Homework_2.Github             
+| 5  |   Feb  |  15  | Tues  |  Homework3 - independent project	                |  
+| 5  |   Feb  |  17  | Thurs |  pandas    								|  Homework_3.Python_Refresh
+| 6  |   Feb  |  22  | Tues  |  Pandas 	          				        | 
 | 6  |   Feb  |  24  | Thurs |  Pandas 	   					|
 | 7  |   Mar  |  1   | Tues  |  Project Write Up 							        |
 | 7  |   Mar  |  3   | Thurs |  Part 4 Data Visualization ggplot2  				        | Homework_4.Pandas/*1-2 Page Project Writeup Due
