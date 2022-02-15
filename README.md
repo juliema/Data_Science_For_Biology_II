@@ -57,16 +57,16 @@ the course is going to be set up into 5 parts
 | 3  |   Feb  |  3   | Thurs |  Collaborating,       					| 
 | 4  |   Feb  |  8   | Tues  |  Conflicts                        			        |  
 | 4  |   Feb  |  10  | Thurs |   Introduction to Programming/Notebooks Homework 3 					| Homework_2.Github             
-| 5  |   Feb  |  15  | Tues  |  Homework3 - independent project	                |  
+| 5  |   Feb  |  15  | Tues  |  Homework3                 |  
 | 5  |   Feb  |  17  | Thurs |  pandas    								|  Homework_3.Python_Refresh
 | 6  |   Feb  |  22  | Tues  |  Pandas 	          				        | 
-| 6  |   Feb  |  24  | Thurs |  Pandas 	   					|
-| 7  |   Mar  |  1   | Tues  |  Project Write Up 							        |
-| 7  |   Mar  |  3   | Thurs |  Part 4 Data Visualization ggplot2  				        | Homework_4.Pandas/*1-2 Page Project Writeup Due
-| 8  |   Mar  |  8   | Tues  |  Data Visualization ggplot2   				        |
-| 8  |   Mar  |  10  | Thurs |  Homework 5/Project Work                                                    |
+| 6  |   Feb  |  24  | Thurs |  Part 4 Data Visualization ggplot2 	   					| Homework_4.Pandas
+| 7  |   Mar  |  1   | Tues  |  GGplots  							        |
+| 7  |   Mar  |  3   | Thurs |  Project Write Up 				        |  Homework_5.DV ggplot
+| 8  |   Mar  |  8   | Tues  |  Regular Expressions 				        |
+| 8  |   Mar  |  10  | Thurs |  Regular Expressions                  | *1-2 Page Project Writeup Due
 | SB |   Mar  |  15 - 17 |Tues-Thurs    |  Spring Break                                                    | 
-| 9  |   Mar  |  22  | Tues  |  Data Visualization              						| Homework_5.DV ggplot
+| 9  |   Mar  |  22  | Tues  |  Data Visualization              						| 
 | 9  |   Mar  |  24  | Thurs |  Data Visualization                                                         |
 | 10 |   Mar  |  29  | Tues  |  Part 5 Data Science + Open Refine        					| Homework_6.DV
 | 10 |   Mar  |  31  | Thurs |  Data Science + Open Refine 					|
