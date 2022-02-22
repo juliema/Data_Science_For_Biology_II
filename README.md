@@ -59,11 +59,11 @@ the course is going to be set up into 5 parts
 | 4  |   Feb  |  10  | Thurs |   Introduction to Programming/Notebooks Homework 3 					| Homework_2.Github             
 | 5  |   Feb  |  15  | Tues  |  Homework3                 |  
 | 5  |   Feb  |  17  | Thurs |  pandas    								|  Homework_3.Python_Refresh
-| 6  |   Feb  |  22  | Tues  |  Pandas 	          				        | 
-| 6  |   Feb  |  24  | Thurs |  Part 4 Data Visualization ggplot2 	   					| Homework_4.Pandas
-| 7  |   Mar  |  1   | Tues  |  GGplots  							        |
-| 7  |   Mar  |  3   | Thurs |  Project Write Up 				        |  Homework_5.DV ggplot
-| 8  |   Mar  |  8   | Tues  |  Regular Expressions 				        |
+| 6  |   Feb  |  22  | Tues  |  Pandas - Homework 4 	          				        | 
+| 6  |   Feb  |  24  | Thurs |  Project Write Up 		   					| Homework_4.Pandas
+| 7  |   Mar  |  1   | Tues  |  Part 4 Data Visualization ggplot2 					        |
+| 7  |   Mar  |  3   | Thurs |  ggplot				        |  
+| 8  |   Mar  |  8   | Tues  |  Regular Expressions 				        | Homework_5.DV ggplot
 | 8  |   Mar  |  10  | Thurs |  Regular Expressions                  | *1-2 Page Project Writeup Due
 | SB |   Mar  |  15 - 17 |Tues-Thurs    |  Spring Break                                                    | 
 | 9  |   Mar  |  22  | Tues  |  Data Visualization              						| 
@@ -72,7 +72,7 @@ the course is going to be set up into 5 parts
 | 10 |   Mar  |  31  | Thurs |  Data Science + Open Refine 					|
 | 11 |   Apr  |  5   | Tues  |  Homework 7 								|
 | 11 |   Apr  |  7   | Thurs |  Relational Databases  				                        | Homework_7.OR
-| 12 |   Apr  |  12  | Tues  |  Sqlite  [Pronghorn Open]  							|
+| 12 |   Apr  |  12  | Tues  |  Sqlite    							|
 | 13 |   Apr  |  14  | Thurs |  Homework 8        	 				             	        |
 | 15 |   Apr  |  19  | Tues  |  Part 6 Clusters                                  					| Homework_8.Sqlite 
 | 15 |   Apr  |  21  | Thurs |  Working with HPCs (Homework 9)	          					|
