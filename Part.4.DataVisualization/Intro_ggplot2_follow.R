@@ -18,7 +18,7 @@ library(Hmisc)
 #set working directory
 #CHANGE TO YOURS
 #setwd('~/g/DataScience/Data_Science_For_Biology_II/Part.3_DataVisualization/1-ggplot')
-setwd('~/g/Classes/DataScience/data_vis/')
+setwd('~/g/projects/DataVis/JulieClass2022/')
 
 #read in dataset
 city_df <- read.csv('city_df.csv')
@@ -170,17 +170,18 @@ ggplot(data=city_sum_df,aes(x=State,y=mean,colour=Clim)) +
 #### let's use built in ggplot functions instead ####
 
 #still need to make long data for temp and ppt
-city_long_df <- city_df %>% 
-  gather(key=Clim,value=mean,c(Ppt,Temp))
+city_long_df <- city_df %>%
+  pivot_longer(cols = c(Ppt, Temp), names_to = "Clim", values_to = "value")
+city_long_df[1:10, ]
 
 #make same point and error but using stat_summary()
-ggplot(data=city_long_df,aes(x=State,y=mean,fill=Clim)) +
+ggplot(data=city_long_df,aes(x=State,y=value,fill=Clim)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   stat_summary(fun = mean, geom = "bar") +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black')
 
 #make same point and error bar but using stat_summary()
-ggplot(data=city_long_df,aes(x=State,y=mean,colour=Clim)) +
+ggplot(data=city_long_df,aes(x=State,y=value,colour=Clim)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black') + 
   stat_summary(fun = mean, geom = "point",size=5) 
@@ -189,24 +190,24 @@ ggplot(data=city_long_df,aes(x=State,y=mean,colour=Clim)) +
 #make figures that show the full distribution of data
 
 #boxplot
-ggplot(data=city_long_df,aes(x=State,y=mean,fill=Clim)) +
+ggplot(data=city_long_df,aes(x=State,y=value,fill=Clim)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   geom_boxplot()
 
 #violin plot
-ggplot(data=city_long_df,aes(x=State,y=mean,fill=Clim)) +
+ggplot(data=city_long_df,aes(x=State,y=value,fill=Clim)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   geom_violin(draw_quantiles = 0.5)
 
 #show raw data with mean and CI
-ggplot(data=city_long_df,aes(x=State,y=mean,colour=Clim)) +
+ggplot(data=city_long_df,aes(x=State,y=value,colour=Clim)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   geom_point(size=4) +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black') + 
   stat_summary(fun = mean, geom = "point",size=5,colour='black') 
 
 #same figure but points jittered in shape of densities
-ggplot(data=city_long_df,aes(x=State,y=mean,colour=Clim)) +
+ggplot(data=city_long_df,aes(x=State,y=value,colour=Clim)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   geom_sina(size=3) +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black') + 
@@ -342,7 +343,7 @@ worst_plot <- ggplot(data=city_sum_df,aes(x=State,y=mean,fill=Clim)) +
 worst_plot
 
 #very_bad
-very_bad_plot <- ggplot(data=city_long_df,aes(x=State,y=mean,fill=State)) +
+very_bad_plot <- ggplot(data=city_long_df,aes(x=State,y=value,fill=State)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   stat_summary(fun = mean, geom = "bar") +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black') + 
@@ -353,7 +354,7 @@ very_bad_plot <- ggplot(data=city_long_df,aes(x=State,y=mean,fill=State)) +
 very_bad_plot
 
 #bad plot
-bad_plot <- ggplot(data=city_long_df,aes(x=State,y=mean,fill=State)) +
+bad_plot <- ggplot(data=city_long_df,aes(x=State,y=value,fill=State)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   geom_boxplot() + 
   scale_fill_npg() + 
@@ -363,7 +364,7 @@ bad_plot <- ggplot(data=city_long_df,aes(x=State,y=mean,fill=State)) +
 bad_plot
 
 #okay plot 
-okay_plot <- ggplot(data=city_long_df,aes(x=State,y=mean,fill=State)) +
+okay_plot <- ggplot(data=city_long_df,aes(x=State,y=value,fill=State)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   geom_sina(size=4,pch=21) +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black') + 
@@ -377,7 +378,7 @@ okay_plot
 worst_plot + very_bad_plot + bad_plot + okay_plot + plot_layout(ncol=2,nrow=2)
 
 #### patchwork 2 col, 1 row ####
-better_plot <- ggplot(data=city_long_df,aes(x=State,y=mean,,fill=State)) +
+better_plot <- ggplot(data=city_long_df,aes(x=State,y=value,fill=State)) +
   facet_wrap(~Clim,nrow=1,scales = 'free') +
   geom_sina(size=4,pch=21) +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black',width = 0.3,size=1.4) + 
@@ -404,7 +405,7 @@ okay_plot + better_plot
 #### good one instead of using facet_wrap ####
 
 temp_df <- city_long_df[which(city_long_df$Clim == 'Temp'),]
-temp_plot <- ggplot(data=temp_df,aes(x=State,y=mean,fill=State)) +
+temp_plot <- ggplot(data=temp_df,aes(x=State,y=value,fill=State)) +
   geom_sina(size=6,pch=21,colour='black') +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black',width = 0.3,size=1.4) + 
   stat_summary(fun = mean, geom = "point",size=9,colour='black',pch=22,fill='white') +
@@ -424,7 +425,7 @@ temp_plot <- ggplot(data=temp_df,aes(x=State,y=mean,fill=State)) +
 temp_plot
 
 ppt_df <- city_long_df[which(city_long_df$Clim == 'Ppt'),]
-ppt_plot <- ggplot(data=ppt_df,aes(x=State,y=mean,fill=State)) +
+ppt_plot <- ggplot(data=ppt_df,aes(x=State,y=value,fill=State)) +
   geom_sina(size=6,pch=21,colour='black') +
   stat_summary(fun.data = mean_cl_boot, geom = "errorbar",color='black',width = 0.3,size=1.4) + 
   stat_summary(fun = mean, geom = "point",size=9,colour='black',pch=22,fill='white') +
