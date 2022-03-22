@@ -63,16 +63,16 @@ the course is going to be set up into 5 parts
 | 6  |   Feb  |  24  | Thurs |  Project Write Up 		   					| Homework_4.Pandas
 | 7  |   Mar  |  1   | Tues  |  Part 4 Data Visualization ggplot2 					        |
 | 7  |   Mar  |  3   | Thurs |  ggplot				        |  
-| 8  |   Mar  |  8   | Tues  |  Regular Expressions 				        | Homework_5.DV ggplot
-| 8  |   Mar  |  10  | Thurs |  Regular Expressions                  | *1-2 Page Project Writeup Due
+| 8  |   Mar  |  8   | Tues  |  Part 5 Data Science + Open Refine				        | Homework_5.DV ggplot
+| 8  |   Mar  |  10  | Thurs |  Open Refine                  | 
 | SB |   Mar  |  15 - 17 |Tues-Thurs    |  Spring Break                                                    | 
-| 9  |   Mar  |  22  | Tues  |  Data Visualization              						| 
+| 9  |   Mar  |  22  | Tues  |  Data Visualization              						| *1-2 Page Project Writeup Due
 | 9  |   Mar  |  24  | Thurs |  Data Visualization                                                         |
-| 10 |   Mar  |  29  | Tues  |  Part 5 Data Science + Open Refine        					| Homework_6.DV
-| 10 |   Mar  |  31  | Thurs |  Data Science + Open Refine 					|
+| 10 |   Mar  |  29  | Tues  |  MetaData Relational Databases       					| Homework_6.DV
+| 10 |   Mar  |  31  | Thurs |  Sqlite  					|
 | 11 |   Apr  |  5   | Tues  |  Homework 7 								|
-| 11 |   Apr  |  7   | Thurs |  Relational Databases  				                        | Homework_7.OR
-| 12 |   Apr  |  12  | Tues  |  Sqlite    							|
+| 11 |   Apr  |  7   | Thurs |  Machine Learning 				                        | Homework_7.OR
+| 12 |   Apr  |  12  | Tues  |  Machine Learning   							|
 | 13 |   Apr  |  14  | Thurs |  Homework 8        	 				             	        |
 | 15 |   Apr  |  19  | Tues  |  Part 6 Clusters                                  					| Homework_8.Sqlite 
 | 15 |   Apr  |  21  | Thurs |  Working with HPCs (Homework 9)	          					|
