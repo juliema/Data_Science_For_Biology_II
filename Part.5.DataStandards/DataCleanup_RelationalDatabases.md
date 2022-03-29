@@ -28,4 +28,6 @@ Download [SAFI_database](https://datacarpentry.org/sql-socialsci/data/SQL_SAFI.s
 
 Download [DB Browser](https://sqlitebrowser.org/dl/)
 
+Download [This zip file](https://www.dropbox.com/s/du6lxpn8u9hl16i/1314459.zip?dl=0)
+
 Homework: Take the ectoparasite dataset and design a relational database. Send me three questions you want to know from the data and the sqlite commands to get the data.
