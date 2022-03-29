@@ -17,4 +17,15 @@ Data Cleaning:
 
 We will be going through this [data carpentry example](https://datacarpentry.org/sql-ecology-lesson/)
 
+Read through [this page](https://datacarpentry.org/sql-socialsci/setup.html)
+
+Macs skip this step:
+Install the shell [SQLite program](https://datacarpentry.org/sql-socialsci/setup.html)
+
+Everyone:
+
+Download [SAFI_database](https://datacarpentry.org/sql-socialsci/data/SQL_SAFI.sqlite)
+
 Download [DB Browser](https://sqlitebrowser.org/dl/)
+
+Homework: Take the ectoparasite dataset and design a relational database. Send me three questions you want to know from the data and the sqlite commands to get the data.
