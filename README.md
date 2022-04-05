@@ -70,7 +70,7 @@ the course is going to be set up into 5 parts
 | 9  |   Mar  |  24  | Thurs |  Data Visualization                                                         |
 | 10 |   Mar  |  29  | Tues  |  MetaData Relational Databases       					| Homework_6.DV
 | 10 |   Mar  |  31  | Thurs |  Sqlite  					|
-| 11 |   Apr  |  5   | Tues  |  Homework 7 								|
+| 11 |   Apr  |  5   | Tues  |  more Sqlite +homework								|
 | 11 |   Apr  |  7   | Thurs |  Machine Learning 				                        | Homework_7.OR
 | 12 |   Apr  |  12  | Tues  |  Machine Learning   							|
 | 13 |   Apr  |  14  | Thurs |  Homework 8        	 				             	        |
