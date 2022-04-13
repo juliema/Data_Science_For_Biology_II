@@ -71,13 +71,13 @@ the course is going to be set up into 5 parts
 | 10 |   Mar  |  29  | Tues  |  MetaData Relational Databases       					| Homework_6.DV
 | 10 |   Mar  |  31  | Thurs |  Sqlite  					|
 | 11 |   Apr  |  5   | Tues  |  more Sqlite +homework								|
-| 11 |   Apr  |  7   | Thurs |  Machine Learning 				                        | Homework_7.OR
+| 11 |   Apr  |  7   | Thurs |  no Class				                        | Homework_7.Sqlite
 | 12 |   Apr  |  12  | Tues  |  Machine Learning   							|
-| 13 |   Apr  |  14  | Thurs |  Homework 8        	 				             	        |
-| 15 |   Apr  |  19  | Tues  |  Part 6 Clusters                                  					| Homework_8.Sqlite 
-| 15 |   Apr  |  21  | Thurs |  Working with HPCs (Homework 9)	          					|
-| 16 |   Apr  |  26  | Tues  |  Homework 9/Project Prep                              				| Homework_9.clusters
-| 16 |   Apr  |  28  | Thurs |  Project Prep                             					        |
+| 13 |   Apr  |  14  | Thurs |  Machine Learning        	 				             	        |
+| 15 |   Apr  |  19  | Tues  |  Working with HPCs                                 					| 
+| 15 |   Apr  |  21  | Thurs |  Slurm scripts aTRAM intro (Homework 9)	          					|
+| 16 |   Apr  |  26  | Tues  |  Working with Pronghorn                              				| 
+| 16 |   Apr  |  28  | Thurs |  Project Prep                             					        | Homework_9.clusters
 | 17 |   May  |  3   | Tues  |  Project presentations                     						| *presentations due
 
 
