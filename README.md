@@ -75,9 +75,9 @@ the course is going to be set up into 5 parts
 | 12 |   Apr  |  12  | Tues  |  Machine Learning   							|
 | 13 |   Apr  |  14  | Thurs |  Machine Learning        	 				             	        |
 | 15 |   Apr  |  19  | Tues  |  Working with HPCs                                 					| 
-| 15 |   Apr  |  21  | Thurs |  Slurm scripts aTRAM intro (Homework 9)	          					|
+| 15 |   Apr  |  21  | Thurs |  Slurm scripts aTRAM intro 	          					|
 | 16 |   Apr  |  26  | Tues  |  Working with Pronghorn                              				| 
-| 16 |   Apr  |  28  | Thurs |  Project Prep                             					        | Homework_9.clusters
+| 16 |   Apr  |  28  | Thurs |  Project Prep                             					        | Homework_8.clusters
 | 17 |   May  |  3   | Tues  |  Project presentations                     						| *presentations due
 
 
