@@ -1,9 +1,9 @@
 # bioinformatics_and_data_science_part_II
 
-Bioinformatics and Data Science Part II Spring 2022    
-BIOL 792-1036   
+Bioinformatics and Data Science Part II Spring 2023    
+BIOL 792-1036  
 Prof: Julie Allen; SFB 206; jallen23@unr.edu   
-Class: Tuesdays and Thursdays 3:00 - 4:15; LME 315
+Class: Tuesdays and Thursdays 3:00 - 4:15; PE 102
 Office Hours: By appointment    
 
 
@@ -49,36 +49,36 @@ the course is going to be set up into 5 parts
 
 | Week    |  Month | Date | Day   |  Class       |  Due          |
 | ------- | -------|------| ------| ------------ | ------------- |
-| 1  |   Jan  |  18  | Tues  | Course intro | |
-| 1  |   Jan  |  20  | Thurs |  Part 1 Linux Refresh                       			                |  
-| 2  |   Jan  |  25  | Tues  |  Part 2 Version Control with Git  |  Homework_1.Linux_Refresh
-| 2  |   Jan  |  27  | Thurs |  went over homework 1 Tracking Changes 					| 
-| 3  |   Feb  |  1   | Tues  |  Exploring History Gitignore, Remotes in Github, Practice          					| 
-| 3  |   Feb  |  3   | Thurs |  Collaborating,       					| 
-| 4  |   Feb  |  8   | Tues  |  Conflicts                        			        |  
-| 4  |   Feb  |  10  | Thurs |   Introduction to Programming/Notebooks Homework 3 					| Homework_2.Github             
-| 5  |   Feb  |  15  | Tues  |  Homework3                 |  
-| 5  |   Feb  |  17  | Thurs |  pandas    								|  Homework_3.Python_Refresh
-| 6  |   Feb  |  22  | Tues  |  Pandas - Homework 4 	          				        | 
-| 6  |   Feb  |  24  | Thurs |  Project Write Up 		   					| Homework_4.Pandas
-| 7  |   Mar  |  1   | Tues  |  Part 4 Data Visualization ggplot2 					        |
-| 7  |   Mar  |  3   | Thurs |  ggplot				        |  
-| 8  |   Mar  |  8   | Tues  |  Part 5 Data Science + Open Refine				        | Homework_5.DV ggplot
-| 8  |   Mar  |  10  | Thurs |  Open Refine                  | 
-| SB |   Mar  |  15 - 17 |Tues-Thurs    |  Spring Break                                                    | 
-| 9  |   Mar  |  22  | Tues  |  Data Visualization              						| *1-2 Page Project Writeup Due
-| 9  |   Mar  |  24  | Thurs |  Data Visualization                                                         |
-| 10 |   Mar  |  29  | Tues  |  MetaData Relational Databases       					| Homework_6.DV
-| 10 |   Mar  |  31  | Thurs |  Sqlite  					|
-| 11 |   Apr  |  5   | Tues  |  more Sqlite +homework								|
-| 11 |   Apr  |  7   | Thurs |  no Class				                        | Homework_7.Sqlite
-| 12 |   Apr  |  12  | Tues  |  Machine Learning   							|
-| 13 |   Apr  |  14  | Thurs |  Machine Learning        	 				             	        |
-| 15 |   Apr  |  19  | Tues  |  Working with HPCs                                 					| 
-| 15 |   Apr  |  21  | Thurs |  Slurm scripts aTRAM intro 	          					|
-| 16 |   Apr  |  26  | Tues  |  Working with Pronghorn                              				| 
-| 16 |   Apr  |  28  | Thurs |  Project Prep                             					        | Homework_8.clusters
-| 17 |   May  |  3   | Tues  |  Project presentations                     						| *presentations due
+| 1  |   Jan  |  24  | Tues  | Course intro | |
+| 1  |   Jan  |  26  | Thurs |  Part 1 Linux Refresh                       			                |  
+| 2  |   Jan  |  31  | Tues  |  Part 2 Version Control with Git  |  Homework_1.Linux_Refresh
+| 2  |   Feb  |  2   | Thurs |  Go over homework 1 then Tracking Changes 					| 
+| 3  |   Feb  |  7   | Tues  |  Exploring History Gitignore, Remotes in Github, Practice          					| 
+| 3  |   Feb  |  9   | Thurs |  Collaborating,       					| 
+| 4  |   Feb  |  14  | Tues  |  Conflicts                        			        |  
+| 4  |   Feb  |  16  | Thurs |   Introduction to Programming/Notebooks Homework 3 					| Homework_2.Github             
+| 5  |   Feb  |  21  | Tues  |  Homework3                 |  
+| 5  |   Feb  |  23  | Thurs |  pandas    								|  Homework_3.Python_Refresh
+| 6  |   Feb  |  28  | Tues  |  Pandas - Homework 4 	          				        | 
+| 6  |   Mar  |  2  | Thurs |  Project Write Up 		   					| Homework_4.Pandas
+| 7  |   Mar  |  7   | Tues  |  Part 4 Data Visualization ggplot2 					        |
+| 7  |   Mar  |  9   | Thurs |  ggplot				        |  
+| 8  |   Mar  |  14   | Tues  |  Part 5 Data Science + Open Refine				        | Homework_5.DV ggplot
+| 8  |   Mar  |  16  | Thurs |  Open Refine                  | 
+| SB |   Mar  |  21 - 23 |Tues-Thurs    |  Spring Break                                                    | 
+| 9  |   Mar  |  28 | Tues | Data Visualization              						| *1-2 Page Project Writeup Due
+| 9  |   Mar  |  30  | Thurs |  Data Visualization                                                         |
+| 10 |   Apr  |  4  | Tues  |  MetaData Relational Databases       					| Homework_6.DV
+| 10 |   Apr  |  6  | Thurs |  Sqlite  					|
+| 11 |   Apr  |  11   | Tues  |  more Sqlite +homework								|
+| 11 |   Apr  |  13   | Thurs |  Project Prep				                        | Homework_7.Sqlite
+| 12 |   Apr  |  18  | Tues  |  Machine Learning   							|
+| 13 |   Apr  |  20  | Thurs |  Machine Learning        	 				             	        |
+| 15 |   Apr  |  25  | Tues  |  Working with HPCs                                 					| 
+| 15 |   Apr  |  27  | Thurs |  Slurm scripts aTRAM intro 	          					|
+| 16 |   May  |  2  | Tues  |  Working with Pronghorn                              				| 
+| 16 |   May  |  4  | Thurs |  Project Prep                             					        | Homework_8.clusters
+| 17 |   May  |  9   | Tues  |  Project presentations                     						| *presentations due
 
 
 ## Statement on Academic Dishonesty:
@@ -99,30 +99,3 @@ The University of Nevada, Reno is committed to providing a safe learning and wor
 #### Equal Opportunity and Title IX page. 
 Statement on Academic Success Services
 Your student fees cover usage of the Math Center (775) 784-4433, Tutoring Center (775) 784-6801, and University Writing Center (775) 784-6030. These centers support your classroom learning; it is your responsibility to take advantage of their services. Keep in mind that seeking help outside of class is the sign of a responsible and successful student.
-
-
-## UNIVERSITY POLICIES:
-### Statement on COVID-19 policies
-#### Training
-Students must complete and follow all guidelines as stated in the Student COVID-19 Training modules, or any other trainings or directives provided by the University. 
-
-#### Face Coverings
-In response to COVID-19, and in alignment with State of Nevada Governor Executive Orders, Roadmap to Recovery for Nevada plans, Nevada System of Higher Education directives, the University of Nevada President directives, and local, state, and national health official guidelines face coverings are required at all times while on campus, except when alone in a private office. This includes the classroom, laboratory, studio, creative space, or any type of in-person instructional activity, and public spaces. 
-A “face covering” is defined as a “covering that fully covers a person’s nose and mouth, including without limitation, cloth face mask, surgical mask, towels, scarves, and bandanas” (State of Nevada Emergency Directive 024). 
-Students that cannot wear a face covering due to a medical condition or disability, or who are unable to remove a mask without assistance may seek an accommodation through the Disability Resource Center. 
-
-#### Social Distancing
-Face coverings are not a substitute for social distancing. Students shall observe current social distancing guidelines where possible in accordance with the Phase we are in while in the classroom, laboratory, studio, creative space (hereafter referred to as instructional space) setting and in public spaces. Students should avoid congregating around instructional space entrances before or after class sessions. If the instructional space has designated entrance and exit doors students are required to use them. Students should exit the instructional space immediately after the end of instruction to help ensure social distancing and allow for the persons attending the next scheduled class session to enter. 
-
-#### Disinfecting Your Learning Space
-Disinfecting supplies are provided for you to disinfect your learning space. You may also use your own disinfecting supplies. 
-
-#### COVID-19, COVID-19 Like Symptoms, and Contact with Someone Testing Positive for COVID-19
-Students must conduct daily health checks in accordance with CDC guidelines. Students testing positive for COVID 19, exhibiting COVID 19 symptoms or who have been in direct contact with someone testing positive for COVID 19 will not be allowed to attend in-person instructional activities and must leave the venue immediately. Students should contact the Student Health Center or their health care provider to receive care and who can provide the latest direction on quarantine and self-isolation. Contact your instructor immediately to make instructional and learning arrangements.  
-
-#### Laboratory, Studio, and Creative Space Settings
-You will be provided specific instructions and procedures by your instructor for art studios, recording studios, digital media labs, testing centers, observation labs, podcasting studios, dance studios, clinical centers, research labs, physical science labs, etc. as necessary.
-
-#### Failure to Comply with Policy (including as outlined in this Syllabus) or Directives of a University Employee
-In accordance with section 6,502 of the University Administrative Manual, a student may receive academic and disciplinary sanctions for failure to comply with policy, including this syllabus, for failure to comply with the directions of a University Official, for disruptive behavior in the classroom, or any other prohibited action. “Disruptive behavior" is defined in part as behavior, including but not limited to failure to follow course, laboratory or safety rules, or endangering the health of others. A student may be dropped from class at any time for misconduct or disruptive behavior in the classroom upon recommendation of the instructor and with approval of the college dean. A student may also receive disciplinary sanctions through the Office of Student Conduct for misconduct or disruptive behavior, including endangering the health of others, in the classroom. The student shall not receive a refund for course fees or tuition.
-
