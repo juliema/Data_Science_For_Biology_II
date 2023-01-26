@@ -65,7 +65,7 @@ the course is going to be set up into 5 parts
 | 7  |   Mar  |  7   | Tues  |  Part 4 Data Visualization - Bobby del Carlo     |Homework_4.Pandas
 | 7  |   Mar  |  9   | Thurs |  Data Visualization - homework		        |  
 | 8  |   Mar  |  14   | Tues  |  Data Visualization ggplot2  Avery Grant			        | Homework_5.DV ggplot
-| 8  |   Mar  |  16  | Thurs |  Open Refine                  | 
+| 8  |   Mar  |  16  | Thurs |  GGplot                  | 
 | SB |   Mar  |  21 - 23 |Tues-Thurs    |  Spring Break                                                    | 
 | 9  |   Mar  |  28 | Tues | Part 5 Data Science + Open Refine              						|  *1-2 Page Project Writeup Due
 | 9  |   Mar  |  30  | Thurs |  Open Refine                                                        |
