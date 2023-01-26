@@ -57,19 +57,19 @@ the course is going to be set up into 5 parts
 | 3  |   Feb  |  7   | Tues  |  Exploring History Gitignore, Remotes in Github, Practice          					| 
 | 3  |   Feb  |  9   | Thurs |  Collaborating,       					| 
 | 4  |   Feb  |  14  | Tues  |  no class work on projects                       			        |  
-| 4  |   Feb  |  16  | Thurs |   Conflicts              
+| 4  |   Feb  |  16  | Thurs |  Conflicts - work on Homework 2             | 
 | 5  |   Feb  |  21  | Tues  |  Introduction to Programming/Notebooks Homework 3 					| Homework_2.Github  
-| 5  |   Feb  |  23  | Thurs |  Homework 3 | 	|  
-| 6  |   Feb  |  28  | Tues  |  Intro to Pandas 	          				        | 
-| 6  |   Mar  |  2  | Thurs |   Homework 4  		   					| 
-| 7  |   Mar  |  7   | Tues  |  Part 4 Data Visualization ggplot2 					        |Homework_4.Pandas
-| 7  |   Mar  |  9   | Thurs |  ggplot				        |  
-| 8  |   Mar  |  14   | Tues  |  Part 5 Data Science + Open Refine				        | Homework_5.DV ggplot
+| 5  |   Feb  |  23  | Thurs |  Work on Homework 3 | 	|  
+| 6  |   Feb  |  28  | Tues  |  Intro to Pandas Chandra Sarkar	          				        | 
+| 6  |   Mar  |  2  | Thurs |   Work on Homework 4  		   					| 
+| 7  |   Mar  |  7   | Tues  |  Part 4 Data Visualization - Bobby del Carlo     |Homework_4.Pandas
+| 7  |   Mar  |  9   | Thurs |  Data Visualization - homework		        |  
+| 8  |   Mar  |  14   | Tues  |  Data Visualization ggplot2  Avery Grant			        | Homework_5.DV ggplot
 | 8  |   Mar  |  16  | Thurs |  Open Refine                  | 
 | SB |   Mar  |  21 - 23 |Tues-Thurs    |  Spring Break                                                    | 
-| 9  |   Mar  |  28 | Tues | Data Visualization              						| *1-2 Page Project Writeup Due
-| 9  |   Mar  |  30  | Thurs |  Data Visualization                                                         |
-| 10 |   Apr  |  4  | Tues  |  MetaData Relational Databases       					| Homework_6.DV
+| 9  |   Mar  |  28 | Tues | Part 5 Data Science + Open Refine              						|  *1-2 Page Project Writeup Due
+| 9  |   Mar  |  30  | Thurs |  Open Refine                                                        |
+| 10 |   Apr  |  4  | Tues  |  MetaData Relational Databases       					| Homework_6.OR
 | 10 |   Apr  |  6  | Thurs |  Sqlite  					|
 | 11 |   Apr  |  11   | Tues  |  more Sqlite +homework								|
 | 11 |   Apr  |  13   | Thurs |  Project Prep				                        | Homework_7.Sqlite
