@@ -52,8 +52,8 @@ the course is going to be set up into 5 parts
 | ------- | -------|------| ------| ------------ | ------------- |
 | 1  |   Jan  |  24  | Tues  | Course intro | |
 | 1  |   Jan  |  26  | Thurs |  Part 1 Linux Refresh                       			                |  
-| 2  |   Jan  |  31  | Tues  |  Part 2 Version Control with Git  |  Homework_1.Linux_Refresh
-| 2  |   Feb  |  2   | Thurs |  Go over homework 1 then Tracking Changes 					| 
+| 2  |   Jan  |  31  | Tues  |  Go over homework 1 and start Part 2 Version Control with Git  |  Homework_1.Linux_Refresh
+| 2  |   Feb  |  2   | Thurs |  Tracking Changes 					| 
 | 3  |   Feb  |  7   | Tues  |  Exploring History Gitignore, Remotes in Github, Practice          					| 
 | 3  |   Feb  |  9   | Thurs |  Collaborating,       					| 
 | 4  |   Feb  |  14  | Tues  |  no class work on projects                       			        |  
