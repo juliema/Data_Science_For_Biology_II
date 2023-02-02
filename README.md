@@ -72,7 +72,7 @@ the course is going to be set up into 5 parts
 | 10 |   Apr  |  4  | Tues  |  MetaData Relational Databases       					| Homework_6 OR
 | 10 |   Apr  |  6  | Thurs |  Sqlite  					|
 | 11 |   Apr  |  11   | Tues  |  more Sqlite +homework								|
-| 11 |   Apr  |  13   | Thurs |  Project Prep				                        | Homework_7 Sqlite
+| 11 |   Apr  |  13   | Thurs |  Project Prep Day				                        | Homework_7 Sqlite
 | 12 |   Apr  |  18  | Tues  |  Machine Learning   							|
 | 13 |   Apr  |  20  | Thurs |  Machine Learning        	 				             	        |
 | 15 |   Apr  |  25  | Tues  |  Working with HPCs                                 					| 
