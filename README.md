@@ -50,7 +50,7 @@ the course is going to be set up into 5 parts
 
 | Week    |  Month | Date | Day   |  Class       |  Due          |
 | ------- | -------|------| ------| ------------ | ------------- |
-| 1  |   Jan  |  24  | Tues  | Course intro | |
+| 1  |   Jan  |  24  | Tues  |  Course intro | |
 | 1  |   Jan  |  26  | Thurs |  Part 1 Linux Refresh                       			                |  
 | 2  |   Jan  |  31  | Tues  |  Go over homework 1 and start Part 2 Version Control with Git  |  Homework_1 Linux_Refresh
 | 2  |   Feb  |  2   | Thurs |  Tracking Changes 					| 
