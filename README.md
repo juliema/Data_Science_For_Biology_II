@@ -72,12 +72,12 @@ the course is going to be set up into 5 parts
 | 10 |   Apr  |  4  	| Tues  	|  Part 5 Data Science + Open Refine 				| *1-2 Page Project Writeup Due
 | 10 |   Apr  |  6  	| Thurs 	|  MetaData Relational Databases - Sqlite  			|
 | 11 |   Apr  |  11   	| Tues  	|  Sqlite 							| Homework_7_Open Refine
-| 11 |   Apr  |  13   	| Thurs 	|  Sqlite +homework				                | 
-| 12 |   Apr  |  18  	| Tues  	|  Machine Learning   						| Homework_8 Sqlite
-| 13 |   Apr  |  20  	| Thurs 	|  Machine Learning        	 				|
-| 15 |   Apr  |  25  	| Tues  	|  Working with HPCs                                 		| 
-| 15 |   Apr  |  27  	| Thurs 	|  Slurm scripts aTRAM intro 	          			|
-| 16 |   May  |  2  	| Tues  	|  Working with Pronghorn                              		| 
+| 11 |   Apr  |  13   	| Thurs 	|  Sqlite + homework				                | 
+| 12 |   Apr  |  18  	| Tues  	|  Working with HPCs   						| Homework_8 Sqlite
+| 13 |   Apr  |  20  	| Thurs 	|  Slurm scripts aTRAM intro        	 				|
+| 15 |   Apr  |  25  	| Tues  	|  Working with Pronghorn                                 		| 
+| 15 |   Apr  |  27  	| Thurs 	|  Machine Learning 	          			|
+| 16 |   May  |  2  	| Tues  	|  Machine Learning                              		| 
 | 16 |   May  |  4  	| Thurs 	|  Project Prep                             			| Homework_9 High Performance Clusters
 | 17 |   May  |  9   	| Tues  	|  Project presentations                     			| *presentations due
 
