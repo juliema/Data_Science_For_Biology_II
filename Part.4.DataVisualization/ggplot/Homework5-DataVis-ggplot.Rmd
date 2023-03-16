@@ -1,0 +1,122 @@
+---
+title: "Homework5-DataVis-ggplot"
+author: "YOUR NAME HERE"
+date: 'DUE: Thursday, March 10'
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Necessary items:
+- **libraries:** tidyverse, ggsci, ggforce, patchwork, Hmisc
+- **files:** bloom_df.csv, hw_task2_blank.png
+
+Within RStudio you can directly edit these blocks of code and turn in your homework that way with your code and figures printed.   
+I **HIGHLY** recommend getting your code to work in a normal R script then just copy and pasting the final code over to this document
+
+**First: import libraries, set your working directory, and read in bloom_df**  
+```{r init, message=FALSE, warning=FALSE}
+library(tidyverse) 
+library(ggforce) 
+library(ggsci)
+library(patchwork)
+library(Hmisc)
+
+setwd('~/g/Classes/DataScience/data_vis/') #change to match your ggplot directory
+
+bloom_df <- read.csv('bloom_df.csv')
+```
+
+### bloom_df contents
+- **taxa:** genus_species
+- **genus** 
+- **species** 
+- **logbodysize** 
+- **trophic_position**
+- **reg:** diadromous or non-diadromous
+
+Let's take a peak and look at the structure
+```{r bloom_df}
+bloom_df[1:5,]
+str(bloom_df)
+```
+
+### Graphical tasks
+
+This next tasks are going to ask you to make a series of figures. For each one, I would like you to make all of them *look good*. Change the theme around, change the axis labels, etc. Additionally, each of these will use the **reg** column which has 2 factors. Change the color and/or shape of them both. 
+
+### Task 1: Continuous vs. continuous plot
+
+Create two scatterplots of logbodysize vs. trophic_position grouped by reg
+
+##### First plot: 
+- a 2 trend lines (method = 'lm'), one for each reg variable
+
+```{r 1.1}
+#plot 1.1
+```
+
+##### Second plot 
+- a single trend line for the whole model
+
+```{r 1.2}
+#plot 1.2
+```
+
+### Task 2: Continuous vs. categorical
+
+##### The layout will be: 
+- 2 panels: trophic_position and logbodysize  
+- x axis: reg  
+- y axis: value of trophic_position and logbodysize  
+
+##### Create 4 plots:  
+- bar and error bars (mean and 95% conf. int.)  
+- point and error bars (mean and 95% conf. int.)  
+- box plots  
+- raw data + point and error bars (mean and 95% conf. int.)  
+
+All these plots should have the same general layout but change the type of plot to visualize the data. 
+
+**HINT:** logbodysize and trophic_position need to be turned into long format  
+
+##### Example layout:   
+![sample layout for task2](hw_task2_blank.png){width=50%}
+
+```{r 2.1}
+#plot 2.1
+```
+
+```{r 2.2}
+#plot 2.2
+```
+
+```{r 2.3}
+#plot 2.3
+```
+
+```{r 2.4}
+#plot 2.4
+```
+
+### Task 3: layering your plots
+
+Make any two figures with the bloom_df! Can be something we've done or something completely different. Make one TERRIBLE figure and one GREAT figure.
+
+Put them together using *patchwork* or *ggarrange* 
+
+
+```{r 3}
+#plot 3
+```
+
+### Bonus: make a map (not required)  
+
+In the github for this course, there is an Rmarkdown called *ggmap_ex*. You can use this as a reference to make a map using any data you want. Try using your own data so it is useful.  
+
+```{r bonus}
+#bonus map
+```
