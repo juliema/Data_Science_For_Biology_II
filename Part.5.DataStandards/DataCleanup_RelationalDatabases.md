@@ -15,6 +15,8 @@ Data Cleaning:
 
 # Relational Databases
 
+[Dataset](https://docs.google.com/document/d/1gWT-Em2MR7pHyHhCO4_ZX9rEIBRyG8boCQ74Ts3fArc/edit)
+
 We will be going through this [data carpentry example](https://datacarpentry.org/sql-ecology-lesson/)
 
 Read through [this page](https://datacarpentry.org/sql-socialsci/setup.html)
